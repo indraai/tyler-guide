@@ -1,5 +1,6 @@
 module.exports = {
   dest:'./docs',
+  base: '/docs/',
   title: 'tyler.guide',
   description: 'The definitive guide on Tyler information and how to use the system.',
   themeConfig: {
