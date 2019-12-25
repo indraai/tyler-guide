@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /team-logo.png
-heroText: tyler.guide
+heroText: 'tyler.guide'
 tagline: '#Tyler for non-programmers'
 actionText: Let's Begin →
 actionLink: /begin/
