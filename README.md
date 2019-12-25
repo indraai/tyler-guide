@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: https://deva.space/cdn/cards/tyler/rahula/banner.jpg
+heroImage: /team-logo.png
 heroText: tyler.guide
-tagline: The guide to Tyler for non-programmers
+tagline: '#Tyler for non-programmers'
 actionText: Let's Begin →
-actionLink: /guide/
+actionLink: /begin/
 features:
 - title: People First
   details: With a people first approach Tyler.guide assits the non-programmer in using and understanding Tyler.

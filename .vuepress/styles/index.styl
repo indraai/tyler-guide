@@ -1,0 +1,21 @@
+$body = #e1e7ea
+html,body
+  background-color: $body
+
+.navbar
+  background-color: darken($body, 75%)
+  border-bottom: 1px solid darken($body, 50%)
+
+  a .site-name,
+  .nav-link
+    color: $body
+    > svg
+      display: none
+  .links
+    background-color: transparent !important
+
+.sidebar
+  background-color: transparent
+
+.theme-default-content:not(.custom)
+  max-width: 800px
