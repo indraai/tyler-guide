@@ -22,10 +22,15 @@ module.exports = {
       { text: 'twitter', link: 'https://twitter.com/TylerDeva', target: '_blank', rel:''},
       { text: 'discord', link: 'https://discord.gg/kJ4QXng', target: '_blank', rel:''},
     ],
-    sidebar: [
-      ['/', 'Home'],
-      ['/begin/', 'Getting Started'],
-      ['/instructions/', 'Instructions'],
-    ],
+    sidebar: {
+      '/begin/': [
+        {
+          title: 'Getting Started',
+          children: [
+            '/begin/'
+          ]
+        }
+      ],
+    },
   }
 }

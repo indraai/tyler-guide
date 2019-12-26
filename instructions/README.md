@@ -1,6 +1,14 @@
 ## Tyler Files
 Below is a listing of pastebin.com Tyler files
 
+## [Telecomix](https://telecomix.org/firstmanifesto.txt)
+Nov 29, 2009
+
+> [Internet Archive Post](https://web.archive.org/web/20100204051313/http://interfax.werebuild.eu/2009/11/29/instructions-on-how-to-build-a-cluster-like-werebuild-eu-and-telecomix-org)
+
+## [Project 89](https://www.scribd.com/document/33043343/89PDDWeb-1)
+Jun 15, 2010
+
 ## [Untitled](https://pastebin.com/WUAmw49R)
 Jun 11, 2011
 
@@ -10,7 +18,7 @@ Sep 15, 2011
 ## [Project Mayhem 2012 'Dangerous Ideas #1 and #2'](https://pastebin.com/sLLwJbtz)
 Sep 15, 2011
 
-## [Project Mayhem 2012 hivemind11001010010.html Sept.13th 2011](https://pastebin.com/LSfdQSYV)
+## [Project Mayhem 2012 hivemind](https://pastebin.com/LSfdQSYV)
 Sep 24, 2011
 
 ### [Project Mayhem 2012 Official GnuPG Key](https://pastebin.com/LFB7LywF)
@@ -22,6 +30,9 @@ May 22, 2012
 ::: tip
 Don't BEE afraid to start your OWN seKret TYLER
 :::
+
+## [Project 89 - May 2012 Update](https://www.scribd.com/document/102605824/Project-89-May-2012-Update)
+Aug 11, 2012
 
 ## [Project Mayhem 2012: #OpCountdown | #PM2012](https://pastebin.com/VQPzpAUL)
 Nov 11, 2012
