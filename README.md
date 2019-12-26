@@ -2,7 +2,7 @@
 home: true
 heroImage: /team-logo.png
 heroText: 'tyler.guide'
-tagline: '#Tyler for non-programmers'
+tagline: '#Tyler for people who don't pay attention'
 actionText: Let's Begin →
 actionLink: /begin/
 features:
