@@ -1,4 +1,4 @@
-# Artistic Disclaimer
+# Disclaimer
 
 ::: tip Pastebin Link
 [https://pastebin.com/7CZEqQ6J](https://pastebin.com/7CZEqQ6J)
@@ -34,31 +34,11 @@ If some entity wants to link Project Mayhem 2012 with calling for illegal deeds 
  it's ONLY ART  
  REPEAT
 
- INOFFENSIVE ART  
- REPEAT
-
- INOFFENSIVE ART  
-
-DO NOT BELIEVE  
-ANYTHING YOU  
-READ @PM2012  
-FOR IT IS  
-TOTALLY FAKE  
-
-ALL PM2012 IS  
-MEANT AS A JOKE  
-
-INNOCENT JOKE!  
-INNOFENSIVE JOKE!  
-INNOCENT JOKE!  
-INNOFENSIVE JOKE!  
-
 > "International, regional and national standards also recognize that
 freedom of speech, as the freedom of expression, includes any medium, be
 it orally, in written, in print, THROUGH THE INTERNET OR THROUGH  ART FORMS .
 
-THIS MEANS THAT THE PROTECTION OF FREEDOM OF SPEECH AS A RIGHT
-INCLUDES NOT ONLY THE CONTENT, BUT ALSO THE MEANS OF EXPRESSION."
+THIS MEANS THAT THE PROTECTION OF FREEDOM OF SPEECH AS A RIGHT INCLUDES NOT ONLY THE CONTENT, BUT ALSO THE MEANS OF EXPRESSION."
 
 Source: http://en.wikipedia.org/wiki/Freedom_of_Speech
 
@@ -66,9 +46,9 @@ ___
 
 Under the Miller test, A WORK IS OBSCENE IF:
 
-(a)...‘the average person, applying contemporary community standards’ would find the work, as a whole, appeals to the prurient interest,
-(b)...the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law, and
-(c)...the work, taken as a whole, lacks serious ** LITERARY, ARTISTIC, ** political, or scientific value.
+a. ‘the average person, applying contemporary community standards’ would find the work, as a whole, appeals to the prurient interest,
+b. the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law, and
+c. the work, taken as a whole, lacks serious **LITERARY, ARTISTIC,  political, or scientific value**.
 
 http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution#Obscenity
 ___

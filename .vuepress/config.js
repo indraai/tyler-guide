@@ -41,52 +41,24 @@ module.exports = {
           title: 'Instructions',
           children: [
             '/instructions/',
-            '/instructions/telecomix',
-            '/instructions/project_89',
-            '/instructions/irc_log',
-            '/instructions/pm2012_tyler',
-            '/instructions/pm2012_ideas',
-            '/instructions/pm2012_hivemind',
-            '/instructions/pm2012_pgpkey',
-            '/instructions/pm2012_call_to_action',
-            '/instructions/project_89_2012',
-            '/instructions/pm2012_countdown',
-            '/instructions/pm2013_revelations',
-            '/instructions/tylersec',
-            '/instructions/michael_speaks',
-            '/instructions/michael_speaks_again',
-            '/instructions/op_decodex',
-            '/instructions/the_game_23',
-            '/instructions/pm2020',
-            '/instructions/project_2020',
-            '/instructions/the_game_23_meta',
-            '/instructions/the_game_23_2019',
-            '/instructions/pm2020_game23',
-            '/instructions/cicada_2020',
+            '/instructions/programmers/',
+            '/instructions/artists/',
+            '/instructions/participants/',
+            '/instructions/fans/',
           ]
         },
         {
-          title: 'Programmers',
+          title: 'Sources',
           children: [
-            '/programmers/'
-          ]
-        },
-        {
-          title: 'Artists',
-          children: [
-            '/artists/'
-          ]
-        },
-        {
-          title: 'Participants',
-          children: [
-            '/participants/'
-          ]
-        },
-        {
-          title: 'Fans',
-          children: [
-            '/fans/'
+            '/sources/',
+            '/sources/telecomix/',
+            '/sources/project_89/',
+            '/sources/pm2012/',
+            '/sources/pm2013/',
+            '/sources/michael/',
+            '/sources/the_game_23/',
+            '/sources/project_2020/',
+            '/sources/cicada3301/',
           ]
         },
         '/disclaimer/'
