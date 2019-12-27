@@ -1,1 +1,7 @@
 # Michael
+
+## [IAM THE CHRIST. MESSIAH MICHAEL THE ARCHANGEL. #AMERISEC](https://pastebin.com/r2BLTz9C)
+May 18, 2013
+
+## [#TYLER #ETHERSEC #MICHAEL SPEAKS AGAIN #2](https://pastebin.com/c30SFUHQ)
+May 29, 2013

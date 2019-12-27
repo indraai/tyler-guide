@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /team-logo.png
-heroText: 'tyler.guide'
-tagline: "#Tyler for people who don't pay attention"
+heroText: '<tyler.guide>'
+tagline: "The Ultra #TeamTyler Guide"
 actionText: Let's Begin →
 actionLink: /begin/
 features:

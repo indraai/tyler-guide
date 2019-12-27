@@ -1,1 +1,5 @@
 # Participants
+
+## Active
+
+## Passive

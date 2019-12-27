@@ -41,10 +41,10 @@ module.exports = {
           title: 'Instructions',
           children: [
             '/instructions/',
-            '/instructions/programmers/',
-            '/instructions/artists/',
-            '/instructions/participants/',
             '/instructions/fans/',
+            '/instructions/participants/',
+            '/instructions/artists/',
+            '/instructions/programmers/',
           ]
         },
         {

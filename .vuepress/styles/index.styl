@@ -1,16 +1,29 @@
-$body = #e1e7ea
+$body = #181818
 html,body
+  font-family: Monaco
   background-color: $body
+  color: $accentColor
+
+body
+  background-image: url(https://media.discordapp.net/attachments/653819043693985803/660256944119873547/tyler-bg-800.jpg)
+  background-repeat: no-repeat
+  background-position: bottom right
+  background-attachment: fixed
+
+h1, h2, h3, h4, h5
+  &, a
+    color: #8fd063
 
 .navbar
-  background-color: darken($body, 75%)
+  background-color: darken($body, 15%)
   border-bottom: 1px solid darken($body, 50%)
 
   a .site-name,
   .nav-link
-    color: $body
+    color: lighten($body, 50%)
     > svg
       display: none
+
   .links
     background-color: transparent !important
 
@@ -19,3 +32,9 @@ html,body
 
 .theme-default-content:not(.custom)
   max-width: 800px
+
+.custom-block
+  &.warning
+    color: rgba(255,229,100,1)
+  &.tip
+    color: lighten($body, 50%)

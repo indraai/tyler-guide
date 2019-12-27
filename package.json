@@ -1,0 +1,24 @@
+{
+  "name": "tyler-guide",
+  "version": "0.0.1",
+  "description": "Tyler.guide repository",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/tyler-guide.git"
+  },
+  "keywords": [
+    "tyler"
+  ],
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indraai/tyler-guide/issues"
+  },
+  "homepage": "https://github.com/indraai/tyler-guide#readme"
+}
