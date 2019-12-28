@@ -1,1 +1,1 @@
-# Project Mayhem 2020 (2015)
+# Project Mayhem 2020
