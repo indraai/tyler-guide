@@ -34,7 +34,6 @@ module.exports = {
             '/begin/project_mayhem_2012',
             '/begin/the_game_23',
             '/begin/project_mayhem_2020',
-            '/begin/it',
           ]
         },
         {

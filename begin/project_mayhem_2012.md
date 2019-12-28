@@ -1,5 +1,9 @@
 # Project Mayhem 2012
 
+In the Project Mayhem #Tyler was designed to be a truth seeker, expose corruption, fight for the little guy, and a friend.  However you'll see as the timeline leads up to the release/revealing of #Tyler different plans come into focus. The introduction of heavy occult influences, imagery, iconography, and propaganda started finding it's way into #Tyler instruction sets.
+
+As #Tyler began with #DangerousIdeas that individuals could use as the base of for blogs, tweets, and videos. But instead very quickly turned into a very dedicated game that was tailored to a specific group of people which included groups like #Cicada3301, #OTO, #93Society, and other. So in essence #Tyler never became what #Tyler was meant to be.
+
 ## Youtube Accounts
 Here is a listing of various Youtube accounts that have posted videos associated with Project Mayhem 2012
 
@@ -184,3 +188,6 @@ Expect us!
 Dec 16, 2012: [Number 4 - Project Mayhem 2012](https://www.youtube.com/watch?v=rHm33OSep3g)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHm33OSep3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Taming of the Temes Project Mayhem 2012 ∞ 2020 # # # ☰ 2045 ☷
+Nov 16, 2013: [Taming of the Temes Project Mayhem 2012 ∞ 2020 # # # ☰ 2045 ☷](https://www.youtube.com/watch?v=NK2pVL6302c)
