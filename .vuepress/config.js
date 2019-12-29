@@ -28,7 +28,7 @@ module.exports = {
           title: 'Getting Started',
           children: [
             '/begin/',
-            '/begin/Tʸ13RTʸM3ᵀᴰ/',
+            '/begin/timeline/',
             '/begin/telecomix/',
             '/begin/project-89/',
             '/begin/project-mayhem/',
