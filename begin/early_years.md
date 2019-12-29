@@ -19,7 +19,7 @@ OpenCog has received funding and support from several sources, including the Hon
 :::
 
 ### Anonymous Marches on Scientology
-![Anonymous Marches on Scientology](https://cdn.discordapp.com/attachments/653819043693985803/660037936703733760/anonymous.jpg)
+![Anonymous Marches on Scientology](https://media.discordapp.net/attachments/653819043693985803/660037936703733760/anonymous.jpg)
 
 Jan 21, 2008: [Anonymous Message to Scientology](https://www.youtube.com/watch?v=JCbKv9yiLiQ)   
 Jan 27, 2008: [Anonymous Call to Action](https://www.youtube.com/watch?v=YrkchXCzY70)  
@@ -55,8 +55,6 @@ Welcome to Edge. Welcome to "dangerous ideas". Happy New Year.
 
 ### Those Ugly Americans: 20th & 21st Centuries
 [Google Books](https://books.google.com/books?id=RKecVf4JyDEC&pg=PT352&lpg=PT352&dq=ugly+americans+rewald+wilhite&source=bl&ots=L7kA3JAf2N&sig=ACfU3U2B6q2UJ8tNT1xMd7fiKh-h0f2Rzg&hl=en&sa=X&ved=2ahUKEwjHosTT3tnmAhX1JTQIHb_kCVoQ6AEwAHoECBIQAQ#v=onepage&q=ugly%20americans%20rewald%20wilhite&f=false)
-
-![Ron Rewald and Thomas Willhite of PSI Seminars](https://media.discordapp.net/attachments/653819043693985803/660660810174955570/unknown.png)
 
 ### The Emotion Machine
 **Nov 7, 2006:** Marvin Minsky publishes his book "The Emotion Machine" where he credits Jeffrey Epstein as his top supporter.  
@@ -103,9 +101,41 @@ However Christopher Mark Doyon was responsible for collecting donations on behal
 :::
 
 ## 📅 2003
-### 2003- MIT COG ceases development
+### MIT COG ceases development
 [MIT COG Project](http://www.ai.mit.edu/projects/humanoid-robotics-group/cog/overview.html)
 Avoiding flighty anthropomorphism, you can consider Cog to be a set of sensors and actuators which tries to approximate the sensory and motor dynamics of a human body.
+
+### 4chan
+Oct 2003: [4chan Wiki](https://en.wikipedia.org/wiki/4chan)  
+4chan is an anonymous English-language imageboard website. Launched by Christopher Poole in October 2003, the site was created as a counterpart to the Japanese imageboard Futaba Channel, also known as 2chan. The site has been described as a hub of Internet subculture, with 4chan's community being influential in the formation and spread of prominent Internet memes, including lolcats, Rickrolling, and rage comics, as well as activist and political movements, such as Anonymous and the alt-right.
+
+#### /b/ees Lulz
+The humor of /b/'s many users, who refer to themselves as "/b/tards", is often incomprehensible to newcomers and outsiders, and is characterized by intricate inside jokes and dark comedy. Users often refer to each other, and much of the outside world, as fags. They are often referred to by outsiders as trolls, who regularly act with the intention of "doing it for the lulz", a corruption of "LOL" used to denote amusement at another's expense.[
+
+Many early memes—catchphrases or images that spread quickly, peer to peer, across the Internet have originated on 4chan, usually /b/, as its fast moving, crowd psychology nature enabled content to quickly be passed on to large numbers of viewers.
+
+#### Adult Fandom
+The adult fandom and subculture dedicated to the children's animated television series My Little Pony: Friendship Is Magic began on the "Comics & Cartoons" (/co/) board of 4chan. The show was first discussed with some interest around its debut in October 2010.
+
+#### Jeffrey Epstein
+A report of Jeffrey Epstein's death was posted on /pol/ around 40 minutes before ABC News broke the news. The unidentified person who made the posts may have been a first responder, in violation of privacy law. The posts are under review.
+
+#### Starting point for Anonymous
+4chan has been labeled as the starting point of the Anonymous meme by The Baltimore City Paper, due to the norm of posts signed with the "Anonymous" moniker. The National Post's David George-Cosh said it has been "widely reported" that Anonymous is associated with 4chan and 711chan, as well as numerous Internet Relay Chat (IRC) channels.
+
+#### Lolcat
+A lolcat is an image combining a photograph of a cat with text intended to contribute humour. The text is often idiosyncratic and grammatically incorrect. In 2005, the meme was widely popularized by 4chan in the form of "Caturday". Every Saturday, users posted pictures of cats with image macros relating to that day's theme.
+
+#### Chocolate Rain
+A link to the YouTube video of Tay Zonday's song "Chocolate Rain" was posted on /b/ on July 11, 2007.[95] The Age reported that 4chan posters urged each other to "swarm" the video on YouTube and thus increase its ranking. The video became an immensely popular Internet meme, resulting in cover versions by John Mayer and Green Day drummer Tré Cool.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EwTZ2xpQwpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On September 12, 2009, Poole gave a talk on why 4chan has a reputation as a "Meme Factory" at the Paraflows Symposium in Vienna, Austria, which was part of the Paraflows 09 festival, themed Urban Hacking. In this talk, Poole mainly attributed this to the anonymous system, and to the lack of data retention on the site ("The site has no memory.").
+
+On November 29, 2010, Ali Saad, a 19-year-old, was arrested and had his home raided by the FBI for posting child pornography and death threats on 4chan. Ali had first visited 4chan "a week before [the FBI raid] happened". He admitted to downloading about 25 child pornography images from 4chan.
+
+
 
 ## 📅 2001
 ### Goertzel Funded by Epstein
@@ -127,12 +157,25 @@ There is a group individuals at https://Edge.org that are organized by a publish
 
 [Edge.org Dinners](https://www.edge.org/dinners): In 2000 Jeffrey Epstein and Nicholas Negropant (MIT Meida Lab) both attended the Edge.org dinners for high powered people. An event that was hosted by John Brockman the CEO of Brockman Publishing.  
 
-
 ::: warning Notes
 [John Brockman](https://en.wikipedia.org/wiki/John_Brockman_(literary_agent))
 
 In 2019 it was suggested that Brockman was the “intellectual enabler” of Jeffrey Epstein, the financier who died awaiting trial on charges of sex trafficking girls, who kept Brockman’s Edge Foundation on a retainer fee.
 :::
+
+### Ron Rewald lives with Charles Luckman
+[FamilyTreeNow.com Ron Rewald](https://www.familytreenow.com/search/people/results?first=Ronald&last=Rewald&rid=0sl&smck=wJY37YRogQFQp9Wnu23LMw)  
+
+![Ron Rewald 9200 Sunset](https://media.discordapp.net/attachments/653819043693985803/660878356279197736/unknown.png?width=400&height=62)
+
+[FamilyTreeNow.com Charles Luckman](https://www.familytreenow.com/search/people/results?first=Charles&last=Luckman&rid=0sn&smck=JSzDNZHzFqfZr7JDrncrxA)  
+
+![Charles Luckman 9200 Sunset](https://media.discordapp.net/attachments/653819043693985803/660883502002077722/unknown.png?width=400&height=62)  
+
+[9200 Sunset Wiki](https://en.wikipedia.org/wiki/9200_Sunset)
+9200 Sunset (formerly Luckman Plaza) is a commercial office building at 9200 and 9220 Sunset Boulevard at the west end of the Sunset Strip in West Hollywood, California. Designed by Charles Luckman, the project consists of two office buildings totaling 300,000 sq ft (28,000 m2) of office and restaurant space, which are connected by a central lobby.
+
+9200 Sunset is regarded as one of the "top entertainment office properties" in Los Angeles, and is home to many companies from the entertainment industry, including Ford Models, Abrams Artists, AtEntertainment and Media Talent Group, among others. Mosaic Los Angeles, Sotheby's auction house and Comerica are also listed as tenants.
 
 ### Don't Read Me
 January 14, 2000
@@ -182,16 +225,47 @@ A **chinger** is a telephone fraud device that mimics the frequency made by a pa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HFURM8O-oYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 📅 1983
-[Thomas Willhite CIA Spy with connections to BBRDW](https://isgp-studies.com/DL_1983-thomas-willhite-plane-crash-bbrdw)
 
-By 1971 Thomas D. Willhite and his wife Jane Willhite were acquainted with Werner Erhard, founder of "Est" and part of the "liberal CIA" network surrounding the Esalen Institute. In 1973 Thomas and Jane founded the Personal Success Institute (PSI) Seminars.
-
-Apparently Willhite was close friends with Ron Rewald, the CIA asset and chairman of the Hawaii-based investment first Bishop, Baldwin, Rewald, Dillingham and Wong (BBRDW). When Rewald was left out to dry by the Agency, Willhite planned to publicly protest, but was killed in a place crash before doing so.
+### BBRDW
 
 **July 29, 1983:** Ron Rewald attempted suicide at the Sheraton Waikiki Hotel, allegedly because the media was on the verge of exposing his background.[8] Six days later, the company was forced into bankruptcy.[1] Rewald was arrested on August 8, 1983, immediately after his release from the hospital, and was charged with theft by deception. He was held in lieu of $10 million bail.[8] He faced 98 charges and a maximum of 400 years in prison.
 
 ::: warning Note
 According to Rewald, he attended the Massachusetts Institute of Technology, then spent a year working for the CIA monitoring underground anti-government activity at the University of Wisconsin–Madison before leaving the CIA and attending Marquette University, where he played football.
+:::
+
+#### [Explosive Secrets of Covert CIA Companies](https://books.google.com/books?id=zAqaLW7NXgoC&pg=PT341&lpg=PT341&dq=bbrdw&source=bl&ots=9WPNIK-L5n&sig=ACfU3U2nKfeH3PctnW3IaT33Ir8IQqWzGg&hl=en&sa=X&ved=2ahUKEwjc6v6mmNvmAhVyyYsBHREiC48Q6AEwEHoECBQQAQ#v=onepage&q=bbrdw&f=false)    
+
+![Ron Rewald and Thomas Willhite of PSI Seminars](https://media.discordapp.net/attachments/653819043693985803/660660810174955570/unknown.png?width=500&height=539)  
+
+![Explosive Secrets Tom Willhite](https://media.discordapp.net/attachments/653819043693985803/660882062026342470/unknown.png?width=500&height=412)  
+
+![BBRDW and the Green Book](https://media.discordapp.net/attachments/653819043693985803/660875713846444032/unknown.png?width=500&height=352)
+
+::: tip Green Book
+This is one of the references made in the research to a "Green Book" that contains the bank accounts and records of the organization. Based on research the location of this book may have been given to Thomas Willhite just prior to his death. As Ron Rewald and Tom Willhite spoke the day before Tom Willhite died regarding it's location.
+:::
+
+[Arnold W. Braswell](https://en.wikipedia.org/wiki/Arnold_W._Braswell): Arnold Webb Braswell (born October 3, 1925) is a retired American Air Force lieutenant general and command pilot who was commander in chief of Pacific Air Forces, with headquarters at Hickam Air Force Base in Hawaii. His command comprised more than 34,000 Air Force operational and support personnel stationed at eight major bases and more than 87 facilities principally located in Japan, South Korea, the Philippines, and Hawaii.
+
+
+#### [Those Ugly Americans: 20th & 21st Centuries](https://books.google.com/books?id=RKecVf4JyDEC&pg=PT350&lpg=PT350&dq=bbrdw&source=bl&ots=L7kA4EzoYI&sig=ACfU3U3tydwgrPSttEQOr7x0jg6mX9JMUw&hl=en&sa=X&ved=2ahUKEwjc6v6mmNvmAhVyyYsBHREiC48Q6AEwEXoECBMQAQ#v=onepage&q=bbrdw&f=false)  
+
+![Those Ugly Americans](https://media.discordapp.net/attachments/653819043693985803/660873249164361749/unknown.png?width=500&height=112)
+
+
+[General Hunter Harris](https://en.wikipedia.org/wiki/Hunter_Harris_Jr.): Hunter Harris Jr. (November 27, 1909 – March 5, 1987) was a United States Air Force four-star general who served as Commander in Chief, Pacific Air Forces (CINCPACAF) from 1964 to 1967.
+
+[Thomas Willhite CIA Spy with connections to BBRDW](https://isgp-studies.com/DL_1983-thomas-willhite-plane-crash-bbrdw): By 1971 Thomas D. Willhite and his wife Jane Willhite were acquainted with Werner Erhard, founder of "Est" and part of the "liberal CIA" network surrounding the Esalen Institute. In 1973 Thomas and Jane founded the Personal Success Institute (PSI) Seminars.
+
+Apparently Willhite was close friends with Ron Rewald, the CIA asset and chairman of the Hawaii-based investment first Bishop, Baldwin, Rewald, Dillingham and Wong (BBRDW). When Rewald was left out to dry by the Agency, Willhite planned to publicly protest, but was killed in a place crash before doing so.
+
+
+
+[CIA: Counterspy CIA FRONT](https://www.cia.gov/library/readingroom/docs/CIA-RDP90-00494R001100700099-1.pdf)  
+[CIA: Rewald Files Show No Major Link with CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP90-00494R001100700090-0.pdf)
+::: danger Warning!
+This links goes to a PDF file on CIA.gov website, so be warned you will be tracked after looking at this file.
 :::
 
 ## 📅 1978
@@ -211,7 +285,12 @@ PSI Seminars is the oldest continuously operating personal and professional trai
 **Sep 9, 1967:** A unique and powerful scientific instrument has now become operational. The two-mile accelerator at the Stanford Linear Accelerator Center has been in use as a National Facility for several months. Ten years of effort,
 including five years of construction, have resulted in this newest tool for basic research. This magnificent accomplishment is the culmination of an admirable working relationship between the staffs of Stanford University and the U.S. Atomic Energy Commission.
 
-![Charles Luckman architect for Stanford Linear Accelerator (SLAC)](https://media.discordapp.net/attachments/653819043693985803/660663840375177258/unknown.png)
+![Charles Luckman architect for Stanford Linear Accelerator (SLAC)](https://media.discordapp.net/attachments/653819043693985803/660663840375177258/unknown.png?width=500&height=73)
+
+[Charles Luckman Wiki](https://en.wikipedia.org/wiki/Charles_Luckman)  
+Charles Luckman (May 16, 1909 in Kansas City – January 26, 1999 in Los Angeles) was an American businessman and architect, famous as the "Boy Wonder of American Business" when he was named president of the Pepsodent toothpaste company in 1939 at the age of 30. Through acquisition, he later became president of Lever Brothers.
+
+
 
 ## 📅 1962
 ### Esalen Institute
@@ -280,8 +359,8 @@ On December 7, 1941, Tyler was a first lieutenant in the Army Air Corps serving 
 
 Following an investigation by a Naval Board of Inquiry in August 1942,[3] it was determined that Tyler had been assigned to the Information Center with little or no training, no supervision, and no staff with which to work. Tyler was subsequently cleared on any wrongdoing by the Board and no disciplinary actions were taken against him.
 
-## 1937
-## My Friend Mr. Leakey
+## 📅 1937
+### My Friend Mr. Leakey
 [My friend, Mr Leakey](https://searchworks.stanford.edu/view/8703849)
 
 My Friend Mr. Leakey was a book written by J.B.S. Haldane who was close personal friends with Norbert Wiener and intellectuals of the time. He wrote a children's book titled My Friend Mr. Leakey which inside has un-explained codes like early designs for a transistor.
