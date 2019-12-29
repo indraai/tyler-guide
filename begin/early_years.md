@@ -156,7 +156,7 @@ Building 20 was built during WWII as a "temporary building". Despite its tempora
 The elevator could have been part of an MIT hack/prank, or could be factual. Supporting information was not found outside the mit.edu website
 :::
 
-## 1995
+## 📅 1995
 ### Edge @ Eastover Farm
 **August 1995:** [Edge @ Eastover Farm](https://www.edge.org/event/edge-eastover-farm)
 
@@ -213,7 +213,7 @@ including five years of construction, have resulted in this newest tool for basi
 
 ![Charles Luckman architect for Stanford Linear Accelerator (SLAC)](https://media.discordapp.net/attachments/653819043693985803/660663840375177258/unknown.png)
 
-## 1962
+## 📅 1962
 ### Esalen Institute
 [Esalen.org](https://www.esalen.org/)  
 [Esalen Institute Wiki](https://en.wikipedia.org/wiki/Esalen_Institute)  
