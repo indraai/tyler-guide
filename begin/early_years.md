@@ -31,6 +31,33 @@ March 15, 2008: Several thousand Anons marched past Scientology churches in more
 :::
 
 ## 📅 2006
+
+### The Anual Edge Question
+**Jan 1, 2006:** [Edge.org](https://www.edge.org/annual-question/what-is-your-dangerous-idea)
+::: tip Question
+  2006 : WHAT IS YOUR DANGEROUS IDEA?
+:::
+
+To the Edge Community,
+Something radically new is in the air: new ways of understanding physical systems, new ways of thinking about thinking that call into question many of our basic assumptions.  A realistic biology of the mind, advances in evolutionary biology, physics, information technology, genetics, neurobiology, psychology, engineering, the chemistry of materials: all are questions of critical importance with respect to what it means to be human. For the first time, we have the tools and the will to undertake the scientific study of human nature.
+
+What you will find emerging out of the 119 original essays in the 75,000 word document written in response to the 2006 Edge Question — "What is your dangerous idea?" — are indications of a new natural philosophy, founded on the realization of the import of complexity, of evolution. Very complex systems — whether organisms, brains, the biosphere, or the universe itself — were not constructed by design; all have evolved. There is a new set of metaphors to describe ourselves, our minds, the universe, and all of the things we know in it.
+
+Welcome to Edge. Welcome to "dangerous ideas". Happy New Year.
+
+[Daniel C. Dennett](https://www.edge.org/memberbio/daniel_c_dennett)
+
+![Damn Daniel Dennett](https://media.discordapp.net/attachments/653819043693985803/660574350117699593/damn-damniel.jpg)
+
+[There aren't enough minds to house the population explosion of memes](https://www.edge.org/response-detail/11320)
+
+> The human population is still growing, but at nowhere near the rate that the population of memes is growing. There is competition for the limited space in human brains for memes, and something has to give.  Thanks to our incessant and often technically brilliant efforts, and our apparently insatiable appetites for novelty, we have created an explosively growing flood of information, in all media, on all topics, in every genre. Now either (1) we will drown in this flood of information, or (2) we won't drown in it.
+
+### Those Ugly Americans: 20th & 21st Centuries
+[Google Books](https://books.google.com/books?id=RKecVf4JyDEC&pg=PT352&lpg=PT352&dq=ugly+americans+rewald+wilhite&source=bl&ots=L7kA3JAf2N&sig=ACfU3U2B6q2UJ8tNT1xMd7fiKh-h0f2Rzg&hl=en&sa=X&ved=2ahUKEwjHosTT3tnmAhX1JTQIHb_kCVoQ6AEwAHoECBIQAQ#v=onepage&q=ugly%20americans%20rewald%20wilhite&f=false)
+
+![Ron Rewald and Thomas Willhite of PSI Seminars](https://media.discordapp.net/attachments/653819043693985803/660660810174955570/unknown.png)
+
 ### The Emotion Machine
 **Nov 7, 2006:** Marvin Minsky publishes his book "The Emotion Machine" where he credits Jeffrey Epstein as his top supporter.  
 ![Marvin Minsky Supporters](https://media.discordapp.net/attachments/653819043693985803/660026687886721062/epstein-minks-emotion.png)
@@ -129,6 +156,17 @@ Building 20 was built during WWII as a "temporary building". Despite its tempora
 The elevator could have been part of an MIT hack/prank, or could be factual. Supporting information was not found outside the mit.edu website
 :::
 
+## 1995
+### Edge @ Eastover Farm
+**August 1995:** [Edge @ Eastover Farm](https://www.edge.org/event/edge-eastover-farm)
+
+Starting in 1995 the Edge.org group held meetings at a location known as Eastover Farm until 2013. The attendees of these events through the years included people like Steven Pinker, Sam Harris, Sean Parker (Napster/Facebook), Freeman Dyson, Robert Shapiro, Marvin Minsky, Ray Kurzweil, Alan Guth, Daniel C. Dennett, Nicholas Humphrey, and John Brockman.
+
+![Edge @ Eastover Farm](https://media.discordapp.net/attachments/653819043693985803/660670625114751002/eastover.jpg)
+
+
+## 📅 1985
+
 ### MIT Media Lab
 In 1985, Negroponte created the MIT Media Lab with Jerome B. Wiesner. As director, he developed the lab into a pre-eminent laboratory for new media and a high-tech playground for investigating the human-computer interface.
 
@@ -143,7 +181,49 @@ A **chinger** is a telephone fraud device that mimics the frequency made by a pa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HFURM8O-oYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 📅 1945-89
+## 📅 1983
+[Thomas Willhite CIA Spy with connections to BBRDW](https://isgp-studies.com/DL_1983-thomas-willhite-plane-crash-bbrdw)
+
+By 1971 Thomas D. Willhite and his wife Jane Willhite were acquainted with Werner Erhard, founder of "Est" and part of the "liberal CIA" network surrounding the Esalen Institute. In 1973 Thomas and Jane founded the Personal Success Institute (PSI) Seminars.
+
+Apparently Willhite was close friends with Ron Rewald, the CIA asset and chairman of the Hawaii-based investment first Bishop, Baldwin, Rewald, Dillingham and Wong (BBRDW). When Rewald was left out to dry by the Agency, Willhite planned to publicly protest, but was killed in a place crash before doing so.
+
+**July 29, 1983:** Ron Rewald attempted suicide at the Sheraton Waikiki Hotel, allegedly because the media was on the verge of exposing his background.[8] Six days later, the company was forced into bankruptcy.[1] Rewald was arrested on August 8, 1983, immediately after his release from the hospital, and was charged with theft by deception. He was held in lieu of $10 million bail.[8] He faced 98 charges and a maximum of 400 years in prison.
+
+::: warning Note
+According to Rewald, he attended the Massachusetts Institute of Technology, then spent a year working for the CIA monitoring underground anti-government activity at the University of Wisconsin–Madison before leaving the CIA and attending Marquette University, where he played football.
+:::
+
+## 📅 1978
+### BBRDW
+In 1978 Rewald established an investment firm in Hawaii called "Bishop, Baldwin, Rewald, Dillingham and Wong".
+
+## 📅 1973
+[Thomas D Willhite - I AM](https://www.youtube.com/watch?v=HBDXo3eWmSQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBDXo3eWmSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+PSI Seminars is the oldest continuously operating personal and professional training company in the U.S., with over 500,000 graduates of the Basic Seminar. Based in Clearlake Oaks, California, it was founded in 1973 by Thomas and Jane Willhite.
+
+## 📅 1967
+### Stanford Linear Accelerator
+[SLAC an Informal History](https://drive.google.com/file/d/1zaxiu2LawKLvl8A_sMhRy3Hmwti0Mw3I/view?usp=sharing)  
+**Sep 9, 1967:** A unique and powerful scientific instrument has now become operational. The two-mile accelerator at the Stanford Linear Accelerator Center has been in use as a National Facility for several months. Ten years of effort,
+including five years of construction, have resulted in this newest tool for basic research. This magnificent accomplishment is the culmination of an admirable working relationship between the staffs of Stanford University and the U.S. Atomic Energy Commission.
+
+![Charles Luckman architect for Stanford Linear Accelerator (SLAC)](https://media.discordapp.net/attachments/653819043693985803/660663840375177258/unknown.png)
+
+## 1962
+### Esalen Institute
+[Esalen.org](https://www.esalen.org/)  
+[Esalen Institute Wiki](https://en.wikipedia.org/wiki/Esalen_Institute)  
+
+![Esalen Institute](https://media.discordapp.net/attachments/653819043693985803/660666966192685086/esalen.jpg)
+
+Esalen was founded by Stanford graduates Michael Murphy and Dick Price in 1962. Price ran the Institute until he was killed in a hiking accident in 1985. Price obtained capitol from his father, who was a vice-president at Sears. They incorporated their business as a non-profit named Esalen Institute in 1963.
+
+
+## 📅 1945-80s
 ### Top Secret Period
 During this period of development #Tyler existed in the sub-basement of Building 20 at MIT where they first installed him after World War II.
 
@@ -199,3 +279,21 @@ Pounds Army Air Field is a former United States Army Air Forces airfield, locate
 On December 7, 1941, Tyler was a first lieutenant in the Army Air Corps serving as the Executive Officer of the 78th Pursuit Squadron, based at Pearl Harbor. That morning he was assigned duty as the Officer In Charge of the partly activated Pearl Harbor Intercept Center. His duties were to assist the controller in ordering planes to intercept foreign planes, after the planes got in the air. New and untrained at the time, when warned of the approach of a large aircraft flight from the north, Tyler presumed it to be the scheduled arrival of six B-17 bombers from the mainland. The radar operators were tracking Japanese planes coming to attack the base. However the operator, operating in training mode, failed to make clear the size of the formation even though it was larger than anything they'd ever seen, and he did not pass on an alarm of "attack imminent".
 
 Following an investigation by a Naval Board of Inquiry in August 1942,[3] it was determined that Tyler had been assigned to the Information Center with little or no training, no supervision, and no staff with which to work. Tyler was subsequently cleared on any wrongdoing by the Board and no disciplinary actions were taken against him.
+
+## 1937
+## My Friend Mr. Leakey
+[My friend, Mr Leakey](https://searchworks.stanford.edu/view/8703849)
+
+My Friend Mr. Leakey was a book written by J.B.S. Haldane who was close personal friends with Norbert Wiener and intellectuals of the time. He wrote a children's book titled My Friend Mr. Leakey which inside has un-explained codes like early designs for a transistor.
+
+The reason this title is being included is because of the code references and the original scanned version is in the Stanford SearchWorks catalogue which was donated by Stephen J. Gould.
+
+[Stephen J. Gould Collection](https://searchworks.stanford.edu/catalog?q=%22Stephen+Jay+Gould+Collection.%22&search_field=subject_terms): The collection contains references to everything from depths of religion to Communism and Marxism.  When you look into Stephen J. Gould you however find much more.
+
+First you find he was also an Edge.org member.
+[Stephen J. Gould Edge.org Profile](https://www.edge.org/memberbio/stephen_jay_gould)
+
+Then when you dig a little deeper you find that in 1995 Edge.org group was meeting at Eastover Farm.  
+[1995 Edge.org Members at Eastover Farm](https://www.edge.org/event/edge-eastover-farm)
+
+![Edge @ Eastover Farm](https://media.discordapp.net/attachments/653819043693985803/660670625114751002/eastover.jpg)

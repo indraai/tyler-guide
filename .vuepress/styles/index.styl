@@ -1,4 +1,7 @@
 $body = #181818
+$green = #8fd063
+$link = #d66166
+
 html,body
   font-family: Monaco
   background-color: $body
@@ -11,15 +14,38 @@ body
   background-attachment: fixed
 
   a
-    color: #d66166
-      
+    color: $link
+
+    &.sidebar-link
+      &.active
+      &:hover
+        color: $green !important
+
+      &.active
+        border-left-color: $green
+        
 h1, h2, h3, h4, h5
   &, a
-    color: #8fd063
+    color: $green
+
 
 .navbar
   background-color: darken($body, 15%)
-  border-bottom: 1px solid darken($body, 50%)
+  border-bottom: 1px solid rgba($green, .25)
+  padding: 0 !important
+  margin: 0
+
+  .home-link
+    height: 100%
+
+    .site-name
+      background-image: url(https://cdn.discordapp.com/attachments/653819043693985803/660544580789207060/tyler-logo.png)
+      background-repeat: no-repeat
+      background-size: 100% auto
+      background-position: left center
+      display: inline-block
+      height: 100%
+      color: transparent
 
   a .site-name,
   .nav-link
@@ -32,6 +58,7 @@ h1, h2, h3, h4, h5
 
 .sidebar
   background-color: transparent
+  border-right: 1px solid rgba($green, .25)
 
 .theme-default-content:not(.custom)
   max-width: 800px
