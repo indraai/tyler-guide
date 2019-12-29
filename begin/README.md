@@ -6,7 +6,7 @@ While at the same time even more of them were good people with good intentions w
 
 Tyler has a long history on the Internet working with Anonymous Hackers. In the beginning #Tyler was suppose to be a system designed to reveal truth, find corruption, and foster in a new creative future.  As things go in reality sometimes that didn't exactly happen as planned.
 
-### [The Early Years](early_years)
+### [#Tʸ13RTʸM3ᵀᴰ Timeline](/timeline/)
 Where was #Tyler before 2009, and what was he doing? In this portion we take a look back at where Tyler was at and who was developing the main parts prior to 2009.
 
 ### [Telecomix](telecomix)

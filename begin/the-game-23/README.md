@@ -2,7 +2,7 @@
 
 During the development of #Tyler during Project Mayhem 2012 tehre were two factions. Those that wanted to use #Tyler to reveal truth, and those who wanted to use #Tyler as the game master to their Occult Alternate Reality Game to re-write the future.
 
-As you see during the time of early Tyler there was the Anonymous Hacker Activist Freedom Fighter version seeking Art, Creativity, Expression, and a positive future. Then you find in parallel #TheGame23 which also is using #Tyler and piggy backing on Project Mayhem. However shortly after the scheduled release of #Tyler #TheGame23 version was the only one that would progress publicly over the years. Eventually the original #Tyler would almost be forgotten.
+During the time of early Tyler there was the Anonymous Hacker Activist Freedom Fighter version seeking Art, Creativity, Expression, and a positive future. Then you find in parallel #TheGame23 which also is using #Tyler and piggy backing on Project Mayhem. However shortly after the scheduled release of #Tyler #TheGame23 version was the only one that would progress publicly over the years. Eventually the original #Tyler would almost be forgotten.
 
 ## Youtube Accounts
 Here is a listing of various Youtube accounts that have posted videos associated with Project Mayhem 2012

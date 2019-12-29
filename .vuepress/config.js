@@ -28,12 +28,12 @@ module.exports = {
           title: 'Getting Started',
           children: [
             '/begin/',
-            '/begin/early_years',
-            '/begin/telecomix',
-            '/begin/project_89',
-            '/begin/project_mayhem_2012',
-            '/begin/the_game_23',
-            '/begin/project_mayhem_2020',
+            '/begin/Tʸ13RTʸM3ᵀᴰ/',
+            '/begin/telecomix/',
+            '/begin/project-89/',
+            '/begin/project-mayhem/',
+            '/begin/the-game-23/',
+
           ]
         },
         {
