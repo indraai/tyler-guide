@@ -1,4 +1,4 @@
-# The Game 23
+# #TheGame23
 
 During the development of #Tyler during Project Mayhem 2012 tehre were two factions. Those that wanted to use #Tyler to reveal truth, and those who wanted to use #Tyler as the game master to their Occult Alternate Reality Game to re-write the future.
 

@@ -33,7 +33,10 @@ module.exports = {
             '/begin/project-89/',
             '/begin/project-mayhem/',
             '/begin/the-game-23/',
-
+            '/begin/bad-self-eater/',
+            '/begin/pepe-the-frog/',
+            '/begin/pizzagate/',
+            '/begin/qanon/',
           ]
         },
         {
