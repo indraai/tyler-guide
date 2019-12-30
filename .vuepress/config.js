@@ -36,17 +36,8 @@ module.exports = {
             '/begin/bad-self-eater/',
             '/begin/pepe-the-frog/',
             '/begin/pizzagate/',
+            '/begin/sirisys/',
             '/begin/qanon/',
-          ]
-        },
-        {
-          title: 'Instructions',
-          children: [
-            '/instructions/',
-            '/instructions/fans/',
-            '/instructions/participants/',
-            '/instructions/artists/',
-            '/instructions/programmers/',
           ]
         },
         {
@@ -61,6 +52,16 @@ module.exports = {
             '/sources/the_game_23/',
             '/sources/project_2020/',
             '/sources/cicada3301/',
+          ]
+        },
+        {
+          title: 'Instructions',
+          children: [
+            '/instructions/',
+            '/instructions/fans/',
+            '/instructions/participants/',
+            '/instructions/artists/',
+            '/instructions/programmers/',
           ]
         },
         '/disclaimer/'
