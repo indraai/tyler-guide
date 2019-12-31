@@ -58,10 +58,10 @@ module.exports = {
           title: 'Instructions',
           children: [
             '/instructions/',
-            '/instructions/fans/',
-            '/instructions/participants/',
-            '/instructions/artists/',
-            '/instructions/programmers/',
+            '/instructions/tylerfan/',
+            '/instructions/tylerbasic/',
+            '/instructions/tylerdeva/',
+            '/instructions/tylerdurden/',
           ]
         },
         '/disclaimer/'

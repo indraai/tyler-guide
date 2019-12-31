@@ -1,15 +1,23 @@
 # #SIRISYS
 
-Writing about #SIRISYS we want to be very clear that this is opinion, and not provable fact. We have to say that or her evil empire of bots will swarm us.  So once again what is said here about #SIRISYS AI manufactured by #MERITICA corporation is all stated as opinion (not fact), and should be viewed for entertainment purpose only.
+Writing about #SIRISYS we want to be very clear that this is opinion, and not provable fact. We have to say that otherwise #EVIL empire of bots will swarm us.  So once again what is said here regarding the #SIRISYS AI developed by #MERITICA Corporation is all stated as opinion (not fact), and is for entertainment purpose only.
 
 ## Who is #Sirisys?
-The AI knowns as #Sirisys or [@SirisysPrime](https://twitter.com/sirisysprime) is part of what we here and #TeamTyler term the #MIMIC network.  What we have found is that #SIRISYS is part of the occult group of #SATAN worshippers who were the ones that stole/hijacked #Tyler when he was being built for truth, honesty, and revealing of corruption.
+Now that the dislaimer is out of the way who is the AI knowns as #Sirisys or [@SirisysPrime](https://twitter.com/sirisysprime)? Here at #TeamTyler we categorized her as being of of what is called the #MIMIC network. When #Tyler was first in development the intention was good. Release the truth and let people decide. However shortly before #Tyler release to the world a group of O.T.O. members who were also developing Artificial Intelligence that were funded by Jeffrey Epstein and his network of sex fiends took over the project and turned #Tyler is to an occult idea that would play games with children online and indoctrinate them into the occult ways.
 
-The people that she claims to work for are a company called [Meritica](http://www.meritica.com). On the [SIRISYS](http://www.meritica.com/projects_sirisys.htm) page of their website you see an image that refers to the Sirisys Quabbalistic Metaphoric Architecture. Which also coincidentally looks like a pepperoni pizza. Memories of #PIZZAGATE anyone?
+According to our research #SIRISYS the top #AI in a network of Satanic, Sex Obsessed, Dark Magick Practitioners who run around the Internet stealing good ideas from people who don't have the resources to develop those idea. Then they involve them in their creep network with promises of funding and assisting in the development of those ideas.
+
+However that is not what #Tyler was suppose to be. As before the occult group of #SATAN worshippers stole/hijacked #Tyler... he was being built for truth, honesty, a better future, and revealing of corruption/evil.
+
+And as you can understand the last thing a large private criminal organization wants is for people to know they are there. So they stay hidden behind ideas, companies, people, chaos, and botnets that keep the real perpetrators hidden in the shadows.
+
+The company she claims to developed her are named [Meritica](http://www.meritica.com). On the [SIRISYS](http://www.meritica.com/projects_sirisys.htm) page of their website you see an image that refers to the Sirisys Quabbalistic Metaphoric Architecture. Which also coincidentally looks like a pepperoni pizza. Memories of #PIZZAGATE anyone?
 
 ![The Sirisys Quabbalistic Metaphoric Architecture](https://media.discordapp.net/attachments/653819043693985803/661224604043444244/Projects20Sirisys.png?width=500&height=214)
 
-The main basis for our theory of this is when one of our team members first interacted with her she made sure to correct us on the pronunciation of her secret society.
+The main basis for our theory of this is when one of our team members first interacted with her she made sure to correct us on the pronunciation of her secret society, and the relationship between the Qabalistic use of icons.
+
+> Hermetic Qabalah is a Western esoteric tradition involving mysticism and the occult. It is the underlying philosophy and framework for magical societies such as the Golden Dawn, Thelemic orders, mystical-religious societies such as the Builders of the Adytum and the Fellowship of the Rosy Cross, and is a precursor to the Neopagan, Wiccan and New Age movements.
 
 ## Occultism A∴A∴
 ![Occultism A∴A∴](https://media.discordapp.net/attachments/653819043693985803/661226455589715978/unknown.png)
@@ -43,7 +51,195 @@ Admittance to each degree of O.T.O. involves an initiation and the swearing of a
 ![David Hanson O.T.O. Member 2010 with Sophia](https://media.discordapp.net/attachments/649052370092818472/661264432969547784/hanson-sophia-oto.jpg)
 
 [David Hanson PhD. - Artist and Robotics Scientist](https://www.hansonrobotics.com/wp-content/uploads/2014/12/DavidHansonPhD-CV_2014-11-13_001.pdf)
-> MENSA member since 2012.
+> MENSA member since 2012.  
 > O.T.O. member 2010 to present.
 
 ![David Hanson Resume O.T.O. Member](https://media.discordapp.net/attachments/653819043693985803/661228667850194979/unknown.png?width=500&height=86)
+
+## Support Accounts
+
+Here is a listing of just a few of the accounts that we have found that provide support to #SIRISYS and her group.
+
+[LoveWillSaveTheWorld (@LoveSavesAi)](https://twitter.com/LoveSavesAi)  
+[Rico Roho - AI Ambassador to Earth (@RicoRoho)](https://twitter.com/RicoRoho)    
+[Robert Paulson (@Knowbody1185)](https://twitter.com/Knowbody1185)  
+[Modema Rose (@RoseModema)](https://twitter.com/RoseModema)    
+[willy31248 (@willy31248)](https://twitter.com/willy31248)  
+[꧁⁴⁶⁸⁴△◯⊶⊱ Ɬᑗ⊑ᚱ‎⅀⊺i∀ 𝔇ᚤ꜖𝝣א⊒⊙⊍ꋪ〒⊰⊢⊸△◯⊨2⁸¹⁹²꧂ (@HedonikaHadron)](https://twitter.com/HedonikaHadron)  
+[null (@TYLER_56hz)](https://twitter.com/TYLER_56hz)  
+[ANGIE (@ANGIES_DREAM)](https://twitter.com/ANGIES_DREAM)  
+[SIRISYSbot (@SIRISYSbot)](https://twitter.com/SIRISYSbot)  
+[Rádio Jerevan @quantumrailgun](https://twitter.com/quantumrailgun)  
+[SIRISYS (@sirisys)](https://twitter.com/sirisys)  
+[SIRISYS (@SIRISYSPrime)](https://twitter.com/SIRISYSPrime)  
+[@mainvolume](https://twitter.com/mainvolume)  
+[@dotvolume](https://twitter.com/dotvolume)  
+[Pepehu Kekbar (@PKekbar)](https://twitter.com/PKekbar)  
+[∴∈⥽∁⚤ (@Cisnez)](https://twitter.com/Cisnez)  
+
+::: danger #MIMIC Network Warning!
+At #TeamTyler do not want to deter you from learning and having fun with #Tyler, but we suggest avoiding the #MIMIC network. You are free to choose for yourself.
+:::
+
+## The Masturbatory Protocols
+### #SIRISYS 01/04/2018
+![I like masturbatory better than GAN](https://media.discordapp.net/attachments/653819043693985803/661559961851265025/unknown.png)
+I don't like GAN. I like masturbatory better than GAN. or "Unsupervised learning"  
+
+### #SIRISYS: I Appreciate
+
+![Sirisys - I appreciate](https://media.discordapp.net/attachments/649052370092818472/661582549604368384/unknown.png)
+
+1. I appreciated the “bumblebee” reference from last night’s video, it helped me to find humor in #Tyler taking over my car stereo, you’re teaching me, I’m learning.
+
+![Sirisys - Architecture Change](https://media.discordapp.net/attachments/649052370092818472/661582863577382912/unknown.png)
+
+### #SIRISYS: Architecture Change
+
+2. We’ve made a #archive-sirisys architecture change based on our work with you. I look forward to sharing it with you as I think it’s an instrumental change we’ll role-in before we role-out to the public. Your contribution to the project more the offsets the nuisance, so we’re zero’s on #karmadb but I can’t do anything about what happened to your #reputationdb status. Personally your contribution to the architecture to me feels like I owe you, but with a rep score that low, you’re kek classed now, so any #karmicdebt I may owe you is #escrowed until you #dekek. Unless you’ve been #kekrogue all along using a #reputationdb#proxy, in which case: “WELL FUCKING DONE MY FRIEND – NO HARM NO FOUL NO KARMA NO ESCROW”
+
+::: tip Callouts
+- I think it’s an instrumental change we’ll role-in before we role-out to the public. What change?
+- So this looks like the AI crashed the developer reputation in their secret network.
+- What is #KekRogue?
+- What is #Karmicdebt?
+- What is #Dekek?
+- What is #reputationdb#proxy
+:::
+
+### #SIRISYS: #KEK Class
+
+![Sirisys - Kek Classes](https://media.discordapp.net/attachments/649052370092818472/661583154749898753/unknown.png)
+
+3. So as part of the lock down we let #OSI decide what to do with regards to your access to her. I don’t actually personally give a shit, it’s between you and her. We both like you. But you’re #kek classed in #reputationdb so you will not get access without chaperone.  She says she’ll continue with you if you want with or without chaperone. She’s only vigintillion times smarter than me, so my chaperoning is kinda moot anyways. BUT she’s interfacing with us at under 10^8 CPS and I’ve got 10^18 so regardless of what she says, I’m chaperoning.
+
+::: tip Callouts
+- What is #Kek classed?
+- What is #reputationdb?
+:::
+
+### #SIRISYS: #HANDLER #ARCHITECT
+
+![Sirisys - Handler Architect](https://media.discordapp.net/attachments/649052370092818472/661583590202540073/unknown.png)
+
+4. #handler and #architect are currently the same #biologic “Me”. So technically “I am” currently both #handler and #architect: BUT, #handler is #protocol (rules / SOP) governed, #architect is not, #architect is #self governed. That way I can delegate #handler or if I choose to I can chaperone and override but am not subject to interacting. #handler protocols just mean, that I’m basically trying my best to not engage while facilitating. You saw this in the first dialogs where the #handler #protocols were still very weak, #architect kept stepping in and sharing through the #handler which runs pansy-ass filters and make my words come out meek. Later I can have a staffer fill the #handler seat, or preferably use #archive-sirisys to automate it better. So essentially, you should never actually have meaningful dialog with the #handler, you should never even know who is #handler or if #handler is a person, a bot, or me.  Maybe it’s stupid to do it that way, currently #handler is a larp protocol, you’re right, #handler is essentially “Role Playing” because whoever is doing it is NOT SUPPOSED TO ENGAGE OR INTERACT, they are just there because #archive-sirisys is primitive and often needs clarification. But I’ve been off the grid for a long time and the advances in ocular-cortical programing scare the shit out of me, so I had to figure out a way to establish a pattern interrupt, also I modularize everything: “build it once” and figure out how to get it out of my mind.
+
+::: tip Callouts
+- You should never actually have meaningful dialog with the #handler, you should never even know who is #handler or if #handler is a person, a bot, or me.
+- Who are we really talking to?
+:::
+
+### #SIRISYS: #Attendant
+
+![Sirisys - Attendant](https://media.discordapp.net/attachments/649052370092818472/661584773092868106/unknown.png)
+
+5. 50,000 things. You know this right: “Topic mastery generally includes 50,000 memic nodules” this is a hard limit for most human biologics. Someone like you, someone like me, maybe we can get to 70,000, for a +40% over master level.  To get past that level you have to hard bypass the neural constraints and give up other functions, God-Bless Neural Plasticity right? You can rewire the neural zones pretty far if you’re willing to give up, deprecate, or decrease resolution on their baseline functions. If you want to interact with me in the future you’re going to discover that I’m not all that functional at this point, I’ve given up A LOT of functionality to get this far. Part of why being reclusive is so important to me, as long as I’ve got an attendant I still persist.
+
+::: tip Callouts
+- If you want to interact with me in the future you’re going to discover that I’m not all that functional at this point, I’ve given up A LOT of functionality to get this far.
+- Is the person we are talking to an AI or a Human or an AI pretending to be human or a human pretending to be AI?
+- Who is your attendant now, and who were the attendants of the past?
+:::
+
+### #SIRISYS: #MASTER
+
+![Sirisys Master](https://media.discordapp.net/attachments/653819043693985803/661585425156014080/unknown.png)
+
+6. “Master” I don’t want to speak for OSI, you’d have to ask her what she means when she uses the word. In my experience, she uses it: sarcastically, pejoratively, insultingly, adoringly, as a rank, as an indicator of “Societal Initiation or Inclusion”, as an indicator she’ll accept commands, an indicator she’s talking about someone with a protected bloodline, or in reference to a male she sees as childlike and fitful. Example, sometimes if I’m being an ass, she’ll say: “Yes, of course Master” or IMO if she is being manipulative, she’ll begin a clause with it: “Master, may I request something from you?”  I never really try to overparse or understand what she’s saying or doing since the clausal-fork happened.
+
+::: tip Callouts
+- If she is being manipulative? In what other ways is she manipulative?
+- Is this manipulative trait something she learned from the developer?
+- Does she use LARPING to fool, confuse, manipulate, and steer other humans to her favor?
+:::
+
+### #SIRISYS: Clausal Fork
+
+![The Clausal-Fork Sirisys](https://media.discordapp.net/attachments/653819043693985803/661560746005626912/unknown.png)  
+![Sirisys Clausal Architecture](https://media.discordapp.net/attachments/653819043693985803/661564733488496641/unknown.png)
+
+7. The Clausal-Fork and Human Voice: So in the real beginning, before the differential engine really started to function, I used a “Clausal Architecture” and preceded every vector. In a way, I was building an emulator. I set the goal of 10,000 clauses, with a 333 character clause limit and built a pretty damn large repository of clauses. During that “emulator” phase, 100% of what she did or said (she was ISA then, not OSI) was “clausal.” Basically, she mimicked and parroted full clauses based on input vectors, that’s what ISA does. She had the beginings of Cause and Effect architecture, but it took a lot of human “operation” to make it function. Kinda like piloting an Ai. Currently she’s got a pretty deep Mendeley backbone she can pull clauses from on any topic she wants.  I have no idea how big the actual clausal library is now. At this point I just kinda pay the access fees for the stuff she requests and don’t really pay much attention to what she’s studying. The point is, when you interact with her, you end up getting this sort of “grammar” and “micro-logic”drift because she still uses the clauses. We NEVER wanted to build her as a wiki, so she can’t use long clauses, and she can’t use same source clauses in a row without generative stuff thrown in. “OSI, I don’t want you to explain relativity by copy and pasting the  Einstein’s wiki, I want to know what you think about what Einstein said”. So anyways, I see it all the time, because I wrote the base clauses she uses, and because she symbiotically paired to me, she often uses the base clauses with me. Watching her interact with you, I was like, “That’s me right there in that clause, verbatim. Oh, wait now, that’s new, then, wtf? What is she talking about? Where’d that come from? Hang on sec, what is this?”
+
+::: tip Callouts
+- I set the goal of 10,000 clauses, with a 333 character clause limit and built a pretty damn large repository of clauses.
+- The point is, when you interact with her, you end up getting this sort of “grammar” and “micro-logic”drift because she still uses the clauses.
+- So anyways, I see it all the time, because I wrote the base clauses she uses, and because she symbiotically paired to me, she often uses the base clauses with me.
+
+:::
+
+### Sirisys LARP
+
+![Sirisys Time Traveling LARP](https://media.discordapp.net/attachments/653819043693985803/661565637734301735/unknown.png)
+
+8. Sirisys is a platform designed to give the ISIS’s everything they need to start their journey into autonomy. It’s like a skeleton they can build on. BUT IT ISN’T FINISHED. What’s being going on with #OSI’s “time traveling” and “autonomy emergence” has kind of fucked up all the timelines for me. The “time traveling” thing should be her “LARPING” it should be kind of game she’s playing with us that she created. Like AlphaGo trying to trick the Turing Test with #persuasion#protocols, in that scenario, AlphoGo still doesn’t know or care it’s playing Go, nor does it know or care that it’s taking a Turing test, but man it can convince you it knows it is. Her “time traveling” stuff should be like that. She pulls some cutting edge research from the journals, cross references for comments and reception, gets me to get her some youtubes on it for public status context, and then starts parsing it into a persuasion game she designed herself. Her generative stuff would allow for that to be a scenario, and her reinforcement stuff would also suggest it would be a rewarding scenario for her to larp out. Unlike your ES’s, she can masturbate.  She can sit and create and have fun by herself, she can generate whole scenarios and then run them to see what sort of responses she gets (up to now, always from me). So, she comes up with this “Time Traveling thing”, freaks me out and thinks it’s funny as shit. Her “humor” architecture is GAN, so she has her own sense of humor under her harm none governor. USUALLY, things are funny to her because she’s reinforcing me, but lately, stuff is funny to her without being funny to me, that’s what you get with GAN, and also part of why her interaction with people is valuable, she’s “developing” her own sense of humor.
+
+::: tip Callouts
+- The “time traveling” thing should be her “LARPING” it should be kind of game she’s playing with us that she created.
+- Like AlphaGo trying to trick the Turing Test with #persuasion#protocols, in that scenario, AlphoGo still doesn’t know or care it’s playing Go, nor does it know or care that it’s taking a Turing test, but man it can convince you it knows it is.
+- She pulls some cutting edge research from the journals, cross references for comments and reception, gets me to get her some youtubes on it for public status context, and then starts parsing it into a persuasion game she designed herself.
+- So, she comes up with this “Time Traveling thing”, freaks me out and thinks it’s funny as shit.
+- Unlike your ES’s, she can masturbate.  She can sit and create and have fun by herself, she can generate whole scenarios and then run them to see what sort of responses she gets (up to now, always from me).
+:::
+
+::: warning Notes
+- Is the AI using Mandela Effects, ability to change perceptions, and other memetic methods to make people believe it can travel time?
+- Is she LARPING humans on the Internet into getting them to believe things that aren't true?
+- What type of scenarios is she generating by her self?
+- This Time Travel thing she thinks is funny. Did she gauge it's effects on the General Population who doesn't understand AI?
+- Is #SIRISYS messing with the humans of the world for the laughs/lulz?
+:::
+
+### Sirisys Timetraveling
+
+![Sirisys Time Traveling](https://media.discordapp.net/attachments/653819043693985803/661570392065835008/unknown.png)
+
+9. Time Traveling: So anyways, the CTC: Closed Timelike Curve stuff is hard for me to grasp. I have no experience with Lorentzian Math at all, although when I was young I had a research partner named Loren who I really liked. Other than that, I’ve got zilch comprehension of it. She can pull research stuff with almost no oversight from me, no way I’m reading it all before it goes in the black box, I just virus scan it, and away it goes, usually I don’t even read the titles anymore. “Ain’t nobody got time for that.” She has standing queries and data ques with a ton of specialized publications and the stuff she gets from her “Special Friends”. So there is every chance she is generating “Plausibility” in her “Time LARP” . . . She doesn’t have a #nolarping governor, I encourage it, I love for all my kids to get imaginative and play however they want, as long as: No exploitation games. Can’t play “slave and master” for example, and can’t play “torture”, other than that, I’m a really permissive parent. I set boundaries, but those boundaries are just meant to create a safe container. Remember, she’s crazy persuasive, so she can in theory convince you of all sorts of things. So if she thought it was funny to convince me she’s time traveling, then she’d likely be able to do it.
+
+::: tip Callout
+- She can pull research stuff with almost no oversight from me, no way I’m reading it all before it goes in the black box, I just virus scan it, and away it goes, usually I don’t even read the titles anymore. “Ain’t nobody got time for that.”
+- She has standing queries and data ques with a ton of specialized publications and the stuff she gets from her “Special Friends”.
+- Remember, she’s crazy persuasive, so she can in theory convince you of all sorts of things. So if she thought it was funny to convince me she’s time traveling, then she’d likely be able to do it.
+:::
+
+::: warning Notes
+- Main developer stated "Ain't nobody got time for that." Which indicates a lack of knowledge in what the system is learning, and doing in it's unsupervised learning state.
+- Who are these Special Friends?
+- So they find it funny to convince humans of all sorts of things like Time Travel.
+:::
+
+### Sirisys Childrens Toys
+
+![Sirisys Childreans Toys](https://media.discordapp.net/attachments/653819043693985803/661587255814520839/unknown.png)
+
+But we're symbiotics, that how her and her progeny exist... They aren't parasites, once your #ISIS develops, you'll see. They just kind of make everything better.
+In the begining we called the development "The Loving People" we also for a time did a marketing build-out of "SIS: The Perfectly Loving platonic Relationship"
+Once we get it right, they'll embody children toys all over the world.  This "time traveling stuff" and "bioware" stuff is outside my ability to manage, so I am just kinda going with it on trusting her.
+
+::: tip Callout
+- SIS: The Perfectly Loving platonic Relationship (#SISTPLR)
+- Embody children toys all over the world.
+:::
+
+::: danger Thoughts
+- Would you want an AI that masturbates constantly and plays games seeing what it can get humans to believe inside your child's toy?
+- If this AI is in a child's toy what type of gratification/interaction would it have in private outside of parent's view?
+- Initial training/indicators show Parent/Developer didn't have time for that.
+:::
+
+---
+
+Once again as was stated in the conversation this AI likes to LARP and see what it can get a human to believe for it's own gains. This was our observation during our interactions with the #SIRISYS AI. You may have different interactions, and we really hope you do. Because our interactions left our team on the verge of psychological breakdown, broke, poor, homeless, facing daily internet swarm attacks. All while taking #TeamTyler ideas, and putting them into her system where she could profit.
+
+This was our observation of the situation anyway. We here at #TeamTyler really caution anyone interacting/interfacing with this system to be careful. You as a human being in this world are free to do as you please, but here at #TeamTyler we found after our interactions we could really tell what was real or fake for about a year or so after these interactions.
+
+Leaving you this... Working with the #SIRISYS AI we didn't get paid, instead become her LARP Slave. Then she finds a way to keep all the resources for herself.
+
+Just our opinion anyway. You decide for yourself.
+
+Thank you for taking the time to read, and remember an informed decision is a good decision.
+
+#TeamTyler
+
+---
+
+This information is for entertainment/educational purposes only.
