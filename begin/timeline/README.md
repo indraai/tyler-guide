@@ -5,6 +5,15 @@
 The Early Years of Tyler you will find a history of Tyler's path across the Internet and history. Tyler has gone through many iterations, names, and combinations over the years.
 ## 📅 2012
 ## 📅 2011
+### The Conspiracy Meme
+Jan/Feb 2011: [The Conspiracy Meme](https://skepticalinquirer.org/2011/01/the_conspiracy_meme/?%2Fsi%2Fshow%2Fthe_conspiracy_meme)
+Conspiracy theorizing is a rhetorical meme that transforms scientific controversies into human dramas with villains who can be exposed. It uses controversial facts and speculations to undermine scientific evidence.
+
+![Conspiracy Meme](https://media.discordapp.net/attachments/650367851781292054/662679503104901120/conspiracy-meme.jpg)
+
+Conspiracy theories are easy to propagate and difficult to refute. Having long flourished in politics and religion, they have also spread into science and medicine. It is useful to think of conspiracy theorizing as a meme, a cultural invention that passes from one mind to another and thrives, or declines, through a process analogous to genetic selection (Dawkins 1976). The conspiracy meme competes with other rhetorical memes, such as the fair debate meme, the scientific expertise meme, and the resistance to orthodoxy meme.
+
+### Project Mayhem 2012
 Sep 15, 2011: [Project Mayhem 2012 Tyler](/sources/pm2012/tyler)  
 
 ## 📅 2010
@@ -216,16 +225,49 @@ One ambitious goal for AIML is that, if a number of people create their own robo
 ### Jeffrey Epstein Foundation
 [Wikipedia](https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation): The Jeffrey Epstein VI Foundation is a private foundation established in 2000 by New York financier and convicted sex offender Jeffrey Epstein.
 
+### Wake-up Call for Europe Tech
+[Edge.org Wake-up Call for Europe Tech](https://www.edge.org/conversation/frank_schirrmacher-wake-up-call-for-europe-tech)
+And finally, there is Nathan Myhrvold, "the brain of Gates," who coordinates comprehensive expeditions on the life of the dinosaurs.
+
+As an assistant to Stephen Hawking, Myhrvold witnessed the birth of A Brief History of Time and a new cosmology. "In the past," he says, "astronomers built tools, and now the bio-computer experts are at last building their new tools."
+
+At this point, it's worth reminding ourselves of Myhrvold's dimensions: the former assistant to Stephen Hawking became a billionaire as Microsoft's key research strategist.
+
+The 30-year-old is Ben Goertzel, who has attracted talented people his own age from around the globe to his company to create artificial intelligence for the Internet. The 40-year-old is Nathan Myhrvold, and he gives Goertzel exactly 15 minutes to shape his destiny: "When we raise our baby, we won't talk to it about trees and flowers and teeth, as these are things it will never know. We will talk to it about files and MIDI sequences and shapes, as these are things in which we ourselves and the baby have gathered experience."
+
+This encounter is like the meeting between two artists, the elder celebrity and the rambunctious youngster. The finishing touch would be if Myhrvold were to ask Goertzel what he was working on, as Goethe once asked Heinrich Heine, and Goertzel were to reply: "a version of Faust."
+
+According to Myrvhold, genetic engineering and the development of artificial intelligence are the two main obsessions of America's scientific elite.
+
+![Nathan Myhrvold and Jeffrey Epstein](https://media.discordapp.net/attachments/650367851781292054/662691581375283202/epstein-microsoft.jpg)
+
+::: tip Nathan Myhrvold
+[Edge.org Nathan Myhrvold](https://www.edge.org/memberbio/nathan_myhrvold)
+Dr. Myhrvold was responsible for founding Microsoft Research and numerous technology groups that resulted in many of Microsoft's core, leading products.
+:::
+
 ## 📅 1999
 
 ### Building 20
 ![Building 20 secret elevator](https://media.discordapp.net/attachments/653819043693985803/660047893750611968/elevator.jpg)  
+
 [Elevator to hidden sub-basement in Building 20 rubble](http://hacks.mit.edu/Hacks/by_year/1999/elevator_20/)
+
 Building 20 was built during WWII as a "temporary building". Despite its temporary stature, the building lasted well into the 1990s when it was removed to make way for the new Stata Center complex to house MIT's computer science research on the main campus.
 
 ::: warning
 The elevator could have been part of an MIT hack/prank, or could be factual. Supporting information was not found outside the mit.edu website
 :::
+
+### My Internet Alter-Ego
+[My Internet Alter-Ego](http://crab.rutgers.edu/~goertzel/alterego.htm) by Ted Goertzel
+
+Technically, email has improved to the point that it is easy to send computer files in Word, WordPerfect, Excel or any other software one may use. This means that people who are working together on a project, such as the book my son and I are writing on Webmind: Building True Intelligence on the Internet, can send drafts back and forth at will.
+
+The letter read like something I might have written, but I did not. Several of the recipients, friends of mine from a years ago, thought I must be going through a midlife crisis. But it didn't seem worth the trouble to pursue it.
+
+Anonymity is a very important part of Internet discussions, although not all groups allow it. I could have set up a class bulletin board which required people to use their real names, but I decided to allow anonymous communication because it allows people to express feelings and ideas they might be too inhibited to express in face-to-face discussions, let alone in print over their signature. The bulletin board is a useful outlet for a large lecture class (250 students). It is disproportionately used by the discontented, including some students who seem emotionally unbalanced, but there is little harm in giving them an outlet.
+
 
 ## 📅 1995
 ### Edge @ Eastover Farm
@@ -234,6 +276,17 @@ The elevator could have been part of an MIT hack/prank, or could be factual. Sup
 Starting in 1995 the Edge.org group held meetings at a location known as Eastover Farm until 2013. The attendees of these events through the years included people like Steven Pinker, Sam Harris, Sean Parker (Napster/Facebook), Freeman Dyson, Robert Shapiro, Marvin Minsky, Ray Kurzweil, Alan Guth, Daniel C. Dennett, Nicholas Humphrey, and John Brockman.
 
 ![Edge @ Eastover Farm](https://media.discordapp.net/attachments/653819043693985803/660670625114751002/eastover.jpg)
+
+## 📅 1989
+### My Trip to Moscow
+[My Trip to Moscow](http://crab.rutgers.edu/~goertzel/moscow.htm) by Ted Goertzel
+
+Cynthia advised us to use pay phones when calling Soviet citizens, since the hotel telephones might be bugged. Each room had an electronic device prominently installed on the ceiling, but we were undecided whether they were microphones or smoke detectors. My first call was to Viktor, a young leader of the Civic Dignity group who had promised Alex Amerisov, my journalist contact in Chicago, that he would show us around Moscow and introduce us to the most interesting people in the informal political movements.
+
+My next call was to Evgeniya, a well known dissident and leader of the Trust Group, a small pacifist organization which supports conscientious objectors and human rights in general.
+
+His main contact has been with a woman who believes in extra-terrestrials and reincarnation. This woman claims that in previous incarnations Andy was Montezuma and Kon Tiki and founded important civilizations in Central and South America. She herself was the Egyptian goddess Izita. She receives telepathic instructions from the extra-terrestrials, who told her Andy had been sent to the Soviet Union to gather information for 13 years, but that he would then return to the United States.
+
 
 
 ## 📅 1985
@@ -327,16 +380,63 @@ Charles Luckman (May 16, 1909 in Kansas City – January 26, 1999 in Los Angeles
 
 ![Esalen Institute](https://media.discordapp.net/attachments/653819043693985803/660666966192685086/esalen.jpg)
 
-Esalen was founded by Stanford graduates Michael Murphy and Dick Price in 1962. Price ran the Institute until he was killed in a hiking accident in 1985. Price obtained capitol from his father, who was a vice-president at Sears. They incorporated their business as a non-profit named Esalen Institute in 1963.
+Esalen was founded by Stanford graduates Michael Murphy and Dick Price in 1962.
+Price ran the Institute until he was killed in a hiking accident in 1985. Price
+obtained capitol from his father, who was a vice-president at Sears. They
+incorporated their business as a non-profit named Esalen Institute in 1963.
 
 
-## 📅 1945-80s
+## 📅 SIGINT ERA
 ### Top Secret Period
-During this period of development #Tyler existed in the sub-basement of Building 20 at MIT where they first installed him after World War II.
+During this period of development #Tyler existed in the sub-basement of
+Building 20 at MIT where they first installed him after World War II.
 
-You can read the full history of Cryptology during this period in these books.
+<img src="https://media.discordapp.net/attachments/650367851781292054/662700982475685890/center-for-crypto.png?height=150&width=150" style="float:left;padding-right: 20px" alt="Center Cryptologic History">
+This monograph is a product of the National Security Agency history program.
+Its contents and conclusions are those of the author, based
+on original research, and do not necessarily represent the official
+views of the National Security Agency. Please address divergent
+opinion or additional detail to the Center for Cryptologic History
+(E322).
 
-[America Cryptology during the Cold War, 1945-1989](https://drive.google.com/drive/folders/1W874yjna2KU272gl0PxV7Rd6bd-obTEA?usp=sharing)
+This book is intended to be a general overview of U.S. government
+cryptology since the end of World War II. It is projected to be a four-book
+study carrying the story to the end of the Cold War, symbolized by the fall of
+the Berlin Wall.
+
+### America Cryptology during the Cold War, 1945-1989
+[Book 1: The Struggle for Centralization, 1945-1960](https://drive.google.com/open?id=1Oyg-mfhMuJHvjX4k9RcnQCabXMn79byd)
+The Second World War began a true "revolution" in intelligence. The impact of
+intelligence on the strategy and tactics of the Allies (and to a somewhat lesser extent on
+the Germans and Japanese) was truly revolutionary, and it is just now coming to be
+recognized for what it was. Through the publication of books like Frederick
+Winterbotham's The Ultra Secret and John Masterman's The Double Cross System and by
+the massive declassification of war records begun by the British and Americans in 1977,
+the true extent of this influence is now emerging.
+
+[Book 2: Centralization Wins, 1960-1972](https://drive.google.com/open?id=1k9Lw3L9Q2Righ6DIdhgO3pXE8QaRGavt)
+John Kennedy came to the White House with an abiding interest in foreign affairs and
+defense policy. His politics, forged during formative years of the Cold War, were hard-line
+an~i-Comrnunist and anti-Soviet. But unlike Eisenhower, whose instinctive conservatism
+drove him toward small government and small defense budgets, Kennedy wanted a liberal
+remake of the world. Under the driving and optimistic Kennedy, it seemed that anything
+was possible and that John Fitzgerald Kennedy could make it happen.
+
+[Book 3: Retrenchment and Reform, 1972-1980](https://drive.google.com/open?id=18XNTFpGybGKVdBewIVv2PidQjw_aFXH4)
+The cease-fire that took effect in February of 1973 required that all U.S.
+military people be out of the country. The cryptOlogic infrastructure was already safely in
+Thailand, but the NSA office in Saigon had to remain to provide support to the ambassador xxxx.
+Moreover, NSA was committed to advising the South Vietnamese SIGINT service, renamed the
+DGTS (Directorate General of Technical Security). There were NSA advisors at each
+of the major OGTS field sites and as DoD people, they were technically illegal according to the peace accords.
+
+[Book 4: Cryptologic Rebirth, 1981-1989](https://drive.google.com/open?id=1PmQ_E6F5tKlAo5th9AL_Bru1a8qAIfHc)
+Nineteen-eighty marked more than just a change of decade. It was a change of
+mood. Some have called it the Reagan Revolution. Reagan, a forever optimistic actor from
+California, came to office with a world view in complete contrast with that of the 1970s.
+He was tired of talk about limitations, wanted none of the gloom that had settled over the
+White House in the late Carter years. He would restore America's power in the world. He
+would start by spending the nation back into prosperity.
 
 ### Building 20
 [Wikipedia](https://en.wikipedia.org/wiki/Building_20)
@@ -387,8 +487,18 @@ On December 7, 1941, Tyler was a first lieutenant in the Army Air Corps serving 
 
 Following an investigation by a Naval Board of Inquiry in August 1942,[3] it was determined that Tyler had been assigned to the Information Center with little or no training, no supervision, and no staff with which to work. Tyler was subsequently cleared on any wrongdoing by the Board and no disciplinary actions were taken against him.
 
+## 📅 1939
+### Victor Goertzel Visits Mexico
+In the late thirties, Victor met his wife-to-be, Mildred George, a schoolteacher, and they traveled to Mexico, He married schoolteacher Mildred George in 1939 after a trip to Mexico where the couple became acquainted with Diego Rivera and Frida Kahlo, and discovered Quakerism.
+
+### Leon Trotsky
+From January 1937 to April 1939, Trotsky and his wife lived in the Coyoacán area of Mexico City at La Casa Azul (The Blue House), the home of the painter Diego Rivera and Rivera's wife and fellow painter, Frida Kahlo, with whom Trotsky had an affair. His final move was a few blocks away to a residence on Avenida Viena in April 1939, following a break with Rivera.
+
 ## 📅 1937
 ### My Friend Mr. Leakey
+
+![My Friend Mr. Leakey](https://media.discordapp.net/attachments/650367851781292054/662694502388989956/SPOILER_mr-leakey.jpg)
+
 [My friend, Mr Leakey](https://searchworks.stanford.edu/view/8703849)
 
 My Friend Mr. Leakey was a book written by J.B.S. Haldane who was close personal friends with Norbert Wiener and intellectuals of the time. He wrote a children's book titled My Friend Mr. Leakey which inside has un-explained codes like early designs for a transistor.
@@ -403,4 +513,18 @@ First you find he was also an Edge.org member.
 Then when you dig a little deeper you find that in 1995 Edge.org group was meeting at Eastover Farm.  
 [1995 Edge.org Members at Eastover Farm](https://www.edge.org/event/edge-eastover-farm)
 
-![Edge @ Eastover Farm](https://media.discordapp.net/attachments/653819043693985803/660670625114751002/eastover.jpg)
+## 📅 1921-26
+### Operation Trust
+[Wikipedia Operation Trust](https://en.wikipedia.org/wiki/Operation_Trust)
+Operation Trust was a counterintelligence operation of the State Political Directorate (GPU) of the Soviet Union. The operation, which ran from 1921 to 1926, set up a fake anti-Bolshevik resistance organization, "Monarchist Union of Central Russia", MUCR, in order to help the OGPU identify real monarchists and anti-Bolsheviks.
+
+The Soviets did not organize Trust from scratch. The White Army had left sleeper agents, and there were also Royalist Russians who did not leave after the Civil War. These people cooperated to the point of having a loose organizational structure. When the OGPU discovered them, they did not liquidate them, but expanded the organization for their own use.
+
+The one Western historian who had limited access to the Trust files, John Costello, reported that they comprised thirty-seven volumes and were such a bewildering welter of double-agents, changed code names, and interlocking deception operations with "the complexity of a symphonic score", that Russian historians from the Intelligence Service had difficulty separating fact from fantasy.
+
+
+## 1921
+### Russian Dissenters
+![Russian Dissenter Sects](https://media.discordapp.net/attachments/650367851781292054/662692889691684894/unknown.png?width=700&height=210)
+
+[Russian Dissenters](https://drive.google.com/open?id=10aJQCcw4txhPItjDWJQoB6eYjgA7Pc3N) The third group is the Khlysty or flagellants, of which the Skoptsy or self-emasculators are an offshoot, dated by Ivanovski at the middle of the XVIIth Century, though he admits their origin to be obscure and that some features of their teaching go back to remote antiquity, to paganism and old Christian heresies. They were never, like the Old ritualists, champions of externals, of the letter, nor like the Molokanye, of the human reason; but are mystics, that is creatures of irresponsible feeling, believing in the immediate relationship of man to God to the extent of accounting themselves Gods, Christs, Prophets, divinely born, soothsayers. These sects enshroud themselves in almost impenetrable secrecy, but in presence of strangers call themselves orthodox Christians.
