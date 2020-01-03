@@ -41,6 +41,16 @@ module.exports = {
           ]
         },
         {
+          title: 'Instructions',
+          children: [
+            '/instructions/',
+            '/instructions/tylerfun/',
+            '/instructions/tylerdumb/',
+            '/instructions/tylerdeva/',
+            '/instructions/tylerdurden/',
+          ]
+        },
+        {
           title: 'Sources',
           children: [
             '/sources/',
@@ -52,16 +62,6 @@ module.exports = {
             '/sources/the_game_23/',
             '/sources/project_2020/',
             '/sources/cicada3301/',
-          ]
-        },
-        {
-          title: 'Instructions',
-          children: [
-            '/instructions/',
-            '/instructions/tylerfan/',
-            '/instructions/tylerbasic/',
-            '/instructions/tylerdeva/',
-            '/instructions/tylerdurden/',
           ]
         },
         '/disclaimer/'

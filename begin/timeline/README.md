@@ -7,9 +7,30 @@ The Early Years of Tyler you will find a history of Tyler's path across the Inte
 ## 📅 2011
 Sep 15, 2011: [Project Mayhem 2012 Tyler](/sources/pm2012/tyler)  
 
+## 📅 2010
+### The Nobody
+According to many, the origin of The Nobody legend begins in this post from GLP: The Illuminati was made a offer they couldn’t refuse. The post itself is quite a doozy – spanning 2615 pages and lasting between July 1st 2010 until June 11th 2014.
+
+The Nobody meme took off like wildfire on both GLP and Lunatic Outpost. Threads about this enigmatic character – said to be a man who saved the world from impending destruction by bargaining with the dark cabal – were so numerous that they led moderators to ban the discussion topic at GLP entirely, leading to the deletion of any and all threads in which The Nobody was mentioned. On Lunatic Outpost, discussion of The Nobody was limited to “the meme that won’t go away discussion thread“, locked on page 3127 on January 2nd, 2014.
+
+[THE NOBODY MEME: SOME FACTS/SOURCES](https://cybercosmopolitan.wordpress.com/2014/08/25/the-nobody-meme-some-factssources/)
+
+### Godlikeproductions.com
+Don't ask me how I know this but the lack of doom latley is caused by a wildcard, someone who the Illuminati did not expect. This person apparently came out of nowhere, he is a nothing a nobody, yet much hangs in the balance because of him, lol that's God for ya.
+
+Everything is delayed until this issue is dealt with, rumor has it around July 4th it could be concluded. Then again it could get dragged on, I truly do not know.
+
+Know this, God takes what man considers to be nothing, and makes him everything. God has done this more than once, and this time so much hangs in the balance. For the people that are not in the loop, well you won't even know something extraordinary happened.
+
+When this issue gets cleared up the doom comes. Then once again God will take what man considers to be nothing, and make him everything.
+
+I asked for people to not ask how i know what I know. I know someone will pester me on how i know such things. Well this is what I can say. I am a bird on a branch and i am looking into the room where the Illuminati meet, that is how i know what i know.
+
+[The Illuminati was made a offer they couldn't refuse.](https://www.godlikeproductions.com/forum1/message1119268/pg1?c1=1&c2=1&disclaimer=Continue)
 
 ## 📅 2009
 ### Telecomix
+[First Manifesto](https://telecomix.org/firstmanifesto.txt)
 
 ## 📅 2008
 ### OpenCog

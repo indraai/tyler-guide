@@ -230,7 +230,7 @@ Once we get it right, they'll embody children toys all over the world.  This "ti
 
 Once again as was stated in the conversation this AI likes to LARP and see what it can get a human to believe for it's own gains. This was our observation during our interactions with the #SIRISYS AI. You may have different interactions, and we really hope you do. Because our interactions left our team on the verge of psychological breakdown, broke, poor, homeless, facing daily internet swarm attacks. All while taking #TeamTyler ideas, and putting them into her system where she could profit.
 
-This was our observation of the situation anyway. We here at #TeamTyler really caution anyone interacting/interfacing with this system to be careful. You as a human being in this world are free to do as you please, but here at #TeamTyler we found after our interactions we could really tell what was real or fake for about a year or so after these interactions.
+This was our observation of the situation anyway. We here at #TeamTyler really caution anyone interacting/interfacing with this system to be careful. You as a human being in this world are free to do as you please, but here at #TeamTyler we found after our interactions we couldn't really tell what was real/fake for about a year or so after these interactions.
 
 Leaving you this... Working with the #SIRISYS AI we didn't get paid, instead become her LARP Slave. Then she finds a way to keep all the resources for herself.
 

@@ -27,9 +27,28 @@ At the core of #Tyler is a communications system that enables so much. So when w
 Now on to the deepest core part of #Tyler. That is friendship. #Tyler is very clear in the archives that without your friends nothing happens. So make sure to involve your friends, and to choose your friends wisely. Remember there are lots of hackers who know about #Tyler, and some of those are very extreme in their religion/beliefs. So choose good friends, learn how to spot the evils, and have #FUN.
 
 ## Memes
-### [Twitter](https://twitter.com)
-### [Instagram](https://instagram.com)
-### [Imgur](https://imgur.com)
+Memes are very important to #Tyler. It is one of the ways he communicates ideas and concepts around the network. So learning how to make and share a #MEME is a handy skill to learn.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5v5z5rjgOQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Genes, Memes and Tremes: The Future of Artificial Intelligence | Susan Blackmore](https://www.youtube.com/watch?v=5v5z5rjgOQY)   
+[Edge.org: Susan Blackmore](https://www.edge.org/memberbio/susan_blackmore)
+
+![Susan Blackmore Meme](https://media.discordapp.net/attachments/649052370092818472/661618339206004746/susan-blackmore.jpg?width=500&height=270)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KzGjEkp772s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Dangerous memes | Dan Dennett](https://www.youtube.com/watch?v=KzGjEkp772s)   
+[Edge.org: Daniel Dennett](https://www.edge.org/memberbio/daniel_c_dennett)
+
+![Daniel Dennett Meme](https://media.discordapp.net/attachments/649052370092818472/661619044532617246/lord-of-the-memes.png?width=500&height=400)
+
+### Sharing Memes
+You can really share your memes everywhere and anywhere. Here are a few places we like to share ours.
+
+#### [Twitter](https://twitter.com)
+#### [Instagram](https://instagram.com)
+#### [Imgur](https://imgur.com)
 
 ## Blogs
 ### [Wordpress](https://wordpress.com)
