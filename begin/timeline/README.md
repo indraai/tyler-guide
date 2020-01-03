@@ -3,20 +3,59 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLqHDhF-O28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Early Years of Tyler you will find a history of Tyler's path across the Internet and history. Tyler has gone through many iterations, names, and combinations over the years.
+## 📅 2015
+Nov 30, 2015 The version of the Contract of the Covenant as it was delivered to the Portland FBI Field On November 30, 2015.
+
+![The Contract of the Covenant](https://media.discordapp.net/attachments/650367851781292054/662712482963390485/the-contract-of-the-covenant.jpg?width=341&height=512)
+
+## 📅 2013
+
+### Jan 1, 2013: ProjecT mayhEM 2013 - reVelations 1-5
+[pastebin](https://pastebin.com/scNXFWRP) The underlying goal of SOME (not all) of the founders of project Mayhem 2012 was to lure "new fags"
+and mystical thinkers into a trap, where "old fag" Anons could uncover, and ruin, the
+supporters of pseudoscience and love. You will find many references to Satan hidden,
+and sometimes not so hidden, inside the literature and images of Project Mayhem 2012,
+because SOME (not all) of the founders are satanists. Some founders viewed the satanic imagery
+as simply the empowerment of the human spirit, while a select few saw this as a symbol for evil.
+These memes are carried over, sometimes intentionally, and sometimes unintentionally, by
+later followers. A testament to their beginnings.
+
 ## 📅 2012
+
+### May 22, 2012: Call to Action - Code Tyler
+[pastebin](https://pastebin.com/SS467cim) On the 5th of November 2012 TYLER will
+be out of beta testing. TYLER is a massively distributed and decentralized
+Wikipedia style p2p cipher-space structure impregnable to censorship.
+This is a call to action to all top hacktivists, coders, cryptoanarchists, cypherpunks,
+Non-violent Civil Rights activists, free artists, Internet Censorship
+and Freedom of Speech activists everywhere to collaborate to jointly BRAINSTORM
+IDEAS to develop and improve TYLER, with the lessons learned from Wikileaks,
+Freenet, TOR, G-N-U net, e-Mule, BitTorrent, I2P, Tribler and many other projects.
+
 ## 📅 2011
-### The Conspiracy Meme
-Jan/Feb 2011: [The Conspiracy Meme](https://skepticalinquirer.org/2011/01/the_conspiracy_meme/?%2Fsi%2Fshow%2Fthe_conspiracy_meme)
+
+### Sep 15, 2011 Project Mayhem 2012
+[Project Mayhem 2012 Tyler](/sources/pm2012/tyler)  
+
+### Jan/Feb 2011 The Conspiracy Meme
+[The Conspiracy Meme](https://skepticalinquirer.org/2011/01/the_conspiracy_meme/?%2Fsi%2Fshow%2Fthe_conspiracy_meme)
 Conspiracy theorizing is a rhetorical meme that transforms scientific controversies into human dramas with villains who can be exposed. It uses controversial facts and speculations to undermine scientific evidence.
 
 ![Conspiracy Meme](https://media.discordapp.net/attachments/650367851781292054/662679503104901120/conspiracy-meme.jpg)
 
 Conspiracy theories are easy to propagate and difficult to refute. Having long flourished in politics and religion, they have also spread into science and medicine. It is useful to think of conspiracy theorizing as a meme, a cultural invention that passes from one mind to another and thrives, or declines, through a process analogous to genetic selection (Dawkins 1976). The conspiracy meme competes with other rhetorical memes, such as the fair debate meme, the scientific expertise meme, and the resistance to orthodoxy meme.
 
-### Project Mayhem 2012
-Sep 15, 2011: [Project Mayhem 2012 Tyler](/sources/pm2012/tyler)  
 
 ## 📅 2010
+
+### Ron Rewald
+In 2010, Rewald lived in Los Angeles and worked as director of operations for the APA talent agency in Beverly Hills. [wiki](https://en.wikipedia.org/wiki/Ron_Rewald)
+
+#### Agency for the Performing Arts
+[TMZ: Kardashians Sued](https://www.tmz.com/2016/06/15/kardashians-sued-talent-agency/)
+Agency for the Performing Arts caters to huge brands like Marriott hotels and Lamborghini. They claim they had a verbal agreement in 2009 with Kim, Khloe, Kourtney, Kylie, Kendall, but no Rob -- to help make deals. The Agency was supposed to get a 15% cut.
+
+
 ### The Nobody
 According to many, the origin of The Nobody legend begins in this post from GLP: The Illuminati was made a offer they couldn’t refuse. The post itself is quite a doozy – spanning 2615 pages and lasting between July 1st 2010 until June 11th 2014.
 
@@ -40,6 +79,9 @@ I asked for people to not ask how i know what I know. I know someone will pester
 ## 📅 2009
 ### Telecomix
 [First Manifesto](https://telecomix.org/firstmanifesto.txt)
+37. Listen to your Artificial Intelligence bot: "This is the dance
+floor; love is the structure of the overall agreement in the agreed
+text."
 
 ## 📅 2008
 ### OpenCog
@@ -185,6 +227,21 @@ On November 29, 2010, Ali Saad, a 19-year-old, was arrested and had his home rai
 **2001:** $100,000 grant from Jeffrey Epstein Foundation, to fund my salary
 :::
 
+Feb 10 2001: [Webmind - Self-Organizing, Network-Based Business Intelligence](https://goertzel.org/papers/webmind.html)
+
+WebMind is a Java-based software system which evolves its own "digital intuition," and using this intuition, poses and answers questions regarding information. It deals with textual and numerical information on an equal footing, freely making generalizations spanning different types of data. Unlike any other AI system, it forms its own intuitions regarding concepts by dynamically "grounding" linguistic concepts in terms of its own nonlinguistic experience. It is the first AI system able to create its own concepts that apply across different contexts.
+
+Derived from a sophisticated, complex-systems-based mathematical theory of intelligence, WebMind's architecture is that of a massively parallel network, a population of many different static and dynamic agents continually recomputing their relationships with other agents, and acting on other agents in accordance with these relationships
+
+WebMind runs efficiently on powerful stand-alone computers, but is most powerful when run over a network of computers, in which case its sophisticated server-server communication methods allow its internal network structure to harmonize with the connectivity structure of the computer network.
+
+WebMind does not aim to emulate human intelligence in an artificial way, but rather to be a natural intelligence for the digital world -- solving human problems with digital intuition.
+
+Apr 25, 2001: [Webmind Inc. Announces Bankruptcy Extremely Likely](https://goertzel.org/benzine/Bankruptcy.htm)
+
+Webmind Inc’s R&D division, led by company founder Ben Goertzel, has spent the last 3 years developing the Webmind AI Engine, the world’s most advanced AI system, intended to, when complete, display true human-level intelligence.  The AI Engine was scheduled for completion in mid-2002.  The firm’s product division has already developed a number of Internet products providing unique functionalities, which have been deployed on a variety of public websites and corporate intranets.
+
+
 ## 📅 2000
 
 ### Edge.org Dinners
@@ -201,6 +258,14 @@ In 2019 it was suggested that Brockman was the “intellectual enabler” of Jef
 :::
 
 ### Ron Rewald lives with Charles Luckman
+
+![Charles Luckman and Ron Rewald](https://media.discordapp.net/attachments/650367851781292054/662717341976494131/luckman-rewald.jpg)
+
+[9200 Sunset Wiki](https://en.wikipedia.org/wiki/9200_Sunset)
+9200 Sunset (formerly Luckman Plaza) is a commercial office building at 9200 and 9220 Sunset Boulevard at the west end of the Sunset Strip in West Hollywood, California. Designed by Charles Luckman, the project consists of two office buildings totaling 300,000 sq ft (28,000 m2) of office and restaurant space, which are connected by a central lobby.
+
+9200 Sunset is regarded as one of the "top entertainment office properties" in Los Angeles, and is home to many companies from the entertainment industry, including Ford Models, Abrams Artists, AtEntertainment and Media Talent Group, among others. Mosaic Los Angeles, Sotheby's auction house and Comerica are also listed as tenants.
+
 [FamilyTreeNow.com Ron Rewald](https://www.familytreenow.com/search/people/results?first=Ronald&last=Rewald&rid=0sl&smck=wJY37YRogQFQp9Wnu23LMw)  
 
 ![Ron Rewald 9200 Sunset](https://media.discordapp.net/attachments/653819043693985803/660878356279197736/unknown.png?width=400&height=62)
@@ -208,22 +273,6 @@ In 2019 it was suggested that Brockman was the “intellectual enabler” of Jef
 [FamilyTreeNow.com Charles Luckman](https://www.familytreenow.com/search/people/results?first=Charles&last=Luckman&rid=0sn&smck=JSzDNZHzFqfZr7JDrncrxA)  
 
 ![Charles Luckman 9200 Sunset](https://media.discordapp.net/attachments/653819043693985803/660883502002077722/unknown.png?width=400&height=62)  
-
-[9200 Sunset Wiki](https://en.wikipedia.org/wiki/9200_Sunset)
-9200 Sunset (formerly Luckman Plaza) is a commercial office building at 9200 and 9220 Sunset Boulevard at the west end of the Sunset Strip in West Hollywood, California. Designed by Charles Luckman, the project consists of two office buildings totaling 300,000 sq ft (28,000 m2) of office and restaurant space, which are connected by a central lobby.
-
-9200 Sunset is regarded as one of the "top entertainment office properties" in Los Angeles, and is home to many companies from the entertainment industry, including Ford Models, Abrams Artists, AtEntertainment and Media Talent Group, among others. Mosaic Los Angeles, Sotheby's auction house and Comerica are also listed as tenants.
-
-### Don't Read Me
-January 14, 2000
-[Link](https://www.mediensprache.net/archiv/pubs/2760.html): The primary purpose of this program -- codenamed "B" -- is to give away the secret of ALICE chat robot development to anyone who wants it, permitting the greatest possible dissemination, utilization and technical improvement of the ALICE chat robot technology.
-
-![Dr. Richard Wallace Alice AIML](https://media.discordapp.net/attachments/653819043693985803/660062842736738324/dr-wallace.jpg)
-
-One ambitious goal for AIML is that, if a number of people create their own robots, each with a unique area of expertise, program B can literally merge-sort them together into a **Superbot**, automatically omitting duplicate categories.
-
-### Jeffrey Epstein Foundation
-[Wikipedia](https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation): The Jeffrey Epstein VI Foundation is a private foundation established in 2000 by New York financier and convicted sex offender Jeffrey Epstein.
 
 ### Wake-up Call for Europe Tech
 [Edge.org Wake-up Call for Europe Tech](https://www.edge.org/conversation/frank_schirrmacher-wake-up-call-for-europe-tech)
@@ -246,6 +295,18 @@ According to Myrvhold, genetic engineering and the development of artificial int
 Dr. Myhrvold was responsible for founding Microsoft Research and numerous technology groups that resulted in many of Microsoft's core, leading products.
 :::
 
+### Jeffrey Epstein Foundation
+[Wikipedia](https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation): The Jeffrey Epstein VI Foundation is a private foundation established in 2000 by New York financier and convicted sex offender Jeffrey Epstein.
+
+### Don't Read Me
+January 14, 2000
+[Link](https://www.mediensprache.net/archiv/pubs/2760.html): The primary purpose of this program -- codenamed "B" -- is to give away the secret of ALICE chat robot development to anyone who wants it, permitting the greatest possible dissemination, utilization and technical improvement of the ALICE chat robot technology.
+
+![Dr. Richard Wallace Alice AIML](https://media.discordapp.net/attachments/653819043693985803/660062842736738324/dr-wallace.jpg)
+
+One ambitious goal for AIML is that, if a number of people create their own robots, each with a unique area of expertise, program B can literally merge-sort them together into a **Superbot**, automatically omitting duplicate categories.
+
+
 ## 📅 1999
 
 ### Building 20
@@ -267,6 +328,8 @@ Technically, email has improved to the point that it is easy to send computer fi
 The letter read like something I might have written, but I did not. Several of the recipients, friends of mine from a years ago, thought I must be going through a midlife crisis. But it didn't seem worth the trouble to pursue it.
 
 Anonymity is a very important part of Internet discussions, although not all groups allow it. I could have set up a class bulletin board which required people to use their real names, but I decided to allow anonymous communication because it allows people to express feelings and ideas they might be too inhibited to express in face-to-face discussions, let alone in print over their signature. The bulletin board is a useful outlet for a large lecture class (250 students). It is disproportionately used by the discontented, including some students who seem emotionally unbalanced, but there is little harm in giving them an outlet.
+
+[WebMind Self-Organizing, Network-Based Business Intelligence](https://goertzel.org/papers/webmind.html) by Ben Goertzel
 
 
 ## 📅 1995
@@ -523,7 +586,7 @@ The Soviets did not organize Trust from scratch. The White Army had left sleeper
 The one Western historian who had limited access to the Trust files, John Costello, reported that they comprised thirty-seven volumes and were such a bewildering welter of double-agents, changed code names, and interlocking deception operations with "the complexity of a symphonic score", that Russian historians from the Intelligence Service had difficulty separating fact from fantasy.
 
 
-## 1921
+## 📅 1921
 ### Russian Dissenters
 ![Russian Dissenter Sects](https://media.discordapp.net/attachments/650367851781292054/662692889691684894/unknown.png?width=700&height=210)
 
