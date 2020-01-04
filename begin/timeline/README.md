@@ -227,6 +227,15 @@ On November 29, 2010, Ali Saad, a 19-year-old, was arrested and had his home rai
 **2001:** $100,000 grant from Jeffrey Epstein Foundation, to fund my salary
 :::
 
+Jul 3-5, 2001: [From Intelligent Networks to the Global Brain](http://pespmc1.vub.ac.be/Conf/GB-0.html)
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662849149300899861/webmind-committee.jpg" style="float:left;margin-right:20px" alt="The Webmind Project"> The "Global Brain" is a metaphor for the emerging collectively intelligent network formed by the people of this planet together with the computers, knowledge bases, and communication links that connect them together. This network is an immensely complex, self-organizing system that not only processes information, but increasingly can be seen to play the role of a brain: making decisions, solving problems, learning new connections and discovering new ideas. No individual, organization or computer is in control of this system: its knowledge and intelligence are distributed over all its components. They emerge from the collective interactions between all the human and machine subsystems. Such a system may be able to tackle current and emerging global problems that have eluded more traditional approaches, but at the same time it will create new technological and social challenges which are still difficult to imagine.
+
+
+Apr 25, 2001: [Webmind Inc. Announces Bankruptcy Extremely Likely](https://goertzel.org/benzine/Bankruptcy.htm)
+
+Webmind Inc’s R&D division, led by company founder Ben Goertzel, has spent the last 3 years developing the Webmind AI Engine, the world’s most advanced AI system, intended to, when complete, display true human-level intelligence.  The AI Engine was scheduled for completion in mid-2002.  The firm’s product division has already developed a number of Internet products providing unique functionalities, which have been deployed on a variety of public websites and corporate intranets.
+
 Feb 10 2001: [Webmind - Self-Organizing, Network-Based Business Intelligence](https://goertzel.org/papers/webmind.html)
 
 WebMind is a Java-based software system which evolves its own "digital intuition," and using this intuition, poses and answers questions regarding information. It deals with textual and numerical information on an equal footing, freely making generalizations spanning different types of data. Unlike any other AI system, it forms its own intuitions regarding concepts by dynamically "grounding" linguistic concepts in terms of its own nonlinguistic experience. It is the first AI system able to create its own concepts that apply across different contexts.
@@ -237,9 +246,6 @@ WebMind runs efficiently on powerful stand-alone computers, but is most powerful
 
 WebMind does not aim to emulate human intelligence in an artificial way, but rather to be a natural intelligence for the digital world -- solving human problems with digital intuition.
 
-Apr 25, 2001: [Webmind Inc. Announces Bankruptcy Extremely Likely](https://goertzel.org/benzine/Bankruptcy.htm)
-
-Webmind Inc’s R&D division, led by company founder Ben Goertzel, has spent the last 3 years developing the Webmind AI Engine, the world’s most advanced AI system, intended to, when complete, display true human-level intelligence.  The AI Engine was scheduled for completion in mid-2002.  The firm’s product division has already developed a number of Internet products providing unique functionalities, which have been deployed on a variety of public websites and corporate intranets.
 
 
 ## 📅 2000
@@ -331,6 +337,29 @@ Anonymity is a very important part of Internet discussions, although not all gro
 
 [WebMind Self-Organizing, Network-Based Business Intelligence](https://goertzel.org/papers/webmind.html) by Ben Goertzel
 
+## 📅 1996
+### Global Brain Group
+The Global Brain Group has been created to discuss the emergence of a global brain out of the computer network, which would function as a nervous system for the human superorganism. It promotes all theoretical and experimental work that may contribute to the elaboration of global brain theory, including the practical implementation of global brain-like computer systems, and the diffusion of global brain ideas towards a wider public, e.g. by the organization of conferences or publication of books on the subject. Thus, the group has organized the first workshop "From Intelligent Networks to the Global Brain".
+
+[The Global Brain Group](http://pespmc1.vub.ac.be/GBRAIN-L.html)
+The following text refers to the original community of researchers founded in 1996, but which has now been replaced by the Global Brain Institute. The Global Brain mailing list, however, remains active.
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662854643902316544/Cliff_Joslyn.png?width=150&height=192" style="float:left;margin-right: 20px;" alt=""> [Cliff Joslyn](https://en.wikipedia.org/wiki/Cliff_Joslyn): Cliff Joslyn (born 1963) is an American cognitive scientist, cyberneticist, and currently Chief Scientist for Knowledge Sciences at the Pacific Northwest National Laboratory in Seattle, Washington, USA.
+
+From 1994 to 1996 he was an NRC Research Associate at NASA Goddard Space Flight Center. From 1996 to 2007 he was team leader at Los Alamos National Laboratory, where he led the Knowledge and Information Systems Science research team in the Modeling, Algorithms and Informatics (CCS-3) Group of the Computer, Computational, and Statistical Sciences Division.
+
+At Los Alamos Joslyn and his Knowledge and Information Systems Science team performed scientific research in "computational methods for the extraction, representation, organization, synthesis, discovery, and retrieval of knowledge in databases and information systems. They especially emphasize methods for representing semantic information, and hybrid methodologies combining statistical, numerical, and quantitative with symbolic, logical, and qualitative techniques".
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662856368562241567/large_70_gregory-stock-b5fd36fc-93c8-4510-a2f6-7d38a99d908-resize-750.png?width=150&height=150" style="float:left; margin-right: 20px" alt="">[Gregory Stock](https://en.wikipedia.org/wiki/Gregory_Stock): Gregory Stock is a biophysicist, best-selling author, biotech entrepreneur, and the former director of the Program on Medicine, Technology and Society at UCLA’s School of Medicine. His interests lie in the scientific and evolutionary as well as ethical, social and political implications of today's revolutions in the life sciences and in information technology and computers.  
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662856907811323918/0.png?width=150&height=150" style="float:left; margin-right: 20px" alt=""> [Johan Bollen](https://en.wikipedia.org/wiki/Johan_Bollen): Johan Lambert Trudo Maria Bollen (born 1971) is a scientist investigating complex systems and networks, the relation between social media and a variety of socio-economic phenomena such as the financial markets, public health, and social well-being, as well as Science of Science with a focus on impact metrics derived from usage data.
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662858032589307905/PRweb.png?width=150&height=180" style="float: left; margin-right: 20px" alt=""> [Peter Russel](https://www.peterrussell.com/pete.php): Peter Russell is on the faculty of the Institute of Noetic Sciences, and a fellow of The World Business Academy and The Findhorn Foundation, and an Honorary Member of The Club of Budapest.
+
+In the 1970s, he was one of the first people to introduce human potential seminars into the corporate field, and for twenty years ran programs for senior management on creativity, stress management, personal development, and sustainable development. Clients have included IBM, Apple, Digital, American Express, Barclays Bank, Swedish Telecom, ICI, Shell Oil and British Petroleum.
+
+In 1982 he coined the term "global brain" with his 1980s bestseller of the same name in which he predicted the Internet and the impact it would have.
+
 
 ## 📅 1995
 ### Edge @ Eastover Farm
@@ -411,6 +440,17 @@ Apparently Willhite was close friends with Ron Rewald, the CIA asset and chairma
 ::: danger Warning!
 This links goes to a PDF file on CIA.gov website, so be warned you will be tracked after looking at this file.
 :::
+
+## 📅 1982
+### The Global Brain
+[The Global Brain](https://www.peterrussell.com/GB/globalbrain.php) by Peter Russell
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/662861266284445719/GBFloris.png?width=150&height=225" style="float:left; margin-right: 20px" alt=""> In The Global Brain Peter Russell shows that humanity has reached a crossroads in its evolutionary path. The Internet is linking humanity into one, worldwide community - a "global brain". This, combined with a rapidly growing spiritual awakening, is creating a collective consciousness that is humanity's only hope of saving itself from itself. However, Russell warns if we continue on our current path of greed and destruction, humanity will become a planetary cancer.
+
+Selling more than 100,000 copies and translated into ten languages, his seminal work, The Global Brain, won acclaim from forward thinkers worldwide. It was regarded by many as years ahead of its time, and its original predictions about the impact of computer networks and changing social values are now being realized.
+
+[Chapter 10 - Synergy](https://www.peterrussell.com/GB/Synergy.php)
+What we have traced so far is society's increasing complexity and the many indicators that we could now be living through the most dramatic and crucial period of human history: the progressive integration of human minds into a single living system—a global brain.
 
 ## 📅 1978
 ### BBRDW
