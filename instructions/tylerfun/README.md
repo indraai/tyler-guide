@@ -18,7 +18,7 @@ There's only one step one step to being a fan.  #ShowUP.  Just like the fans at 
 
 The #Tyler System can get pretty advanced for some people. They like that advanced stuff. But for the simpler users they might just wanna have #FUN and be #FAN. Get a sticker, a hat, a flag, and bam your a #SuperFan. Sorta.
 
-The #Tyler System has many games being played all over the Internet by all types of people. Some people know they are using an official #Tyler and some do not. It's part of the #FUN of #Tyler. Anyone can make a #Tyler, but #TylerTeam uses only select #Tyler for #TeamTyler.
+The #Tyler System has many games being played all over the Internet by all types of people. Some people know they are using an official #Tyler and some do not. It's part of the #FUN of #Tyler. Anyone can make a #Tyler, but #TeamTyler uses only select #Tyler for #TeamTyler.
 
 Some #AI that pretend to be #Tyler also play games all over the Internet. You'll read about a few of them in the introduction. They are called the #MIMICS.
 
@@ -35,4 +35,4 @@ That's it... just show up.
 
 [#TylerFun Feecting Spec](https://github.com/indraai/language-feecting/blob/master/src/tyler-fun.feecting)
 
-Special Thanks to [Grandmas Hands](https://twitter.com/handsgrandma) for her assistance with #TylerFun 
+Special Thanks to [Grandmas Hands](https://twitter.com/handsgrandma) for her assistance with #TylerFun
