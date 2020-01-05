@@ -83,6 +83,49 @@ I asked for people to not ask how i know what I know. I know someone will pester
 floor; love is the structure of the overall agreement in the agreed
 text."
 
+### BITCOIN
+
+![Bitcoin](https://media.discordapp.net/attachments/637248482406825986/663081195214602281/bitcoin.jpg)
+
+Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto and started in 2009 when its source code was released as open-source software.
+
+Bitcoin has been criticized for its use in illegal transactions, its high electricity consumption, price volatility, and thefts from exchanges. Some economists, including several Nobel laureates, have characterized it as a speculative bubble. Bitcoin has also been used as an investment, although several regulatory agencies have issued investor alerts about bitcoin.
+
+On 3 January 2009, the bitcoin network was created when Nakamoto mined the first block of the chain, known as the genesis block. Embedded in the coinbase of this block was the text "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks".
+
+The receiver of the first bitcoin transaction was cypherpunk Hal Finney, who had created the first reusable proof-of-work system (RPoW) in 2004. Finney downloaded the bitcoin software on its release date, and on 12 January 2009 received ten bitcoins from Nakamoto. Other early cypherpunk supporters were creators of bitcoin predecessors: Wei Dai, creator of b-money, and Nick Szabo, creator of bit gold. In 2010, the first known commercial transaction using bitcoin occurred when programmer Laszlo Hanyecz bought two Papa John's pizzas for ₿10,000.
+
+[Hal Finney (computer scientist)](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/663104874694705216/Hal_Finney_28computer_scientist29.png?width=150&height=207" style="float:left;margin-right:20px;" alt=""> Harold Thomas Finney II (May 4, 1956 – August 28, 2014) was a developer for PGP Corporation, and was the second developer hired after Phil Zimmermann. In his early career, he was credited as lead developer on several console games. He also was an early bitcoin contributor and received the first bitcoin transaction from bitcoin's creator Satoshi Nakamoto.
+
+Finney died in Phoenix, Arizona, on August 28, 2014 due to complications of ALS, and was cryopreserved by the Alcor Life Extension Foundation.
+
+He was an early Bitcoin user and received the first bitcoin transaction from Bitcoin's creator Satoshi Nakamoto. Finney lived in the same town for 10 years that Dorian Satoshi Nakamoto lived (Temple City, California), adding to speculation that he may have been Bitcoin's creator. Finney denied that he was Satoshi Nakamoto.
+
+[Phil Zimmermann](https://en.wikipedia.org/wiki/Phil_Zimmermann)
+Philip R. Zimmermann is an American computer scientist and cryptographer. He is the creator of Pretty Good Privacy (PGP), the most widely used email encryption software in the world.
+
+[Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai)
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/663105806757003275/Weidai.png?width=150&height=151" style="float:left;margin-right:20px;" alt=""> Mr. Dai worked in the Cryptography Research Group at Microsoft Corporation in Redmond, Washington. While at Microsoft, he was involved in the study, design and implementation of cryptosystems for specialized applications. Prior to joining Microsoft, Mr. Dai was a programmer with TerraSciences of Acton, Massachusetts. Mr. Dai holds a Bachelor of Science degree from the University of Washington in computer science, with a minor in mathematics.
+
+Wei Dai and Adam Back were the first two people contacted by Satoshi Nakamoto as he was developing Bitcoin in 2008 and the b-money paper was referenced in the subsequent Bitcoin whitepaper.
+
+[Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/663106243832840212/s5xXTj.png?width=150&height=150" style="float:left;margin-right:20px" alt=""> Nick Szabo is a computer scientist, legal scholar and cryptographer known for his research in digital contracts and digital currency. He graduated from the University of Washington in 1989 with a degree in computer science[2] and received a law degree from George Washington University Law School.
+
+The phrase and concept of "smart contracts" was developed by Szabo with the goal of bringing what he calls the "highly evolved" practices of contract law and practice to the design of electronic commerce protocols between strangers on the Internet. Smart contracts are a major feature of cryptocurrency[citation needed] and the programming language E.
+
+In 2008, a mysterious figure who wrote under the name Satoshi Nakamoto released a proposal for bitcoin. Nakamoto’s true identity remained a secret, which led to speculation about a long list of people suspected to be Nakamoto. Although Szabo has repeatedly denied it, people have speculated that he is Nakamoto.
+
+[Adam Back](https://en.wikipedia.org/wiki/Adam_Back)
+
+<img src="https://media.discordapp.net/attachments/650367851781292054/663106638906916878/rkq7mx5izngzuevvvpzn.png?width=150&height=150" style="float:left;margin-right:20px" alt=""> Adam is currently the CEO of Blockstream, a technology company that seeks to further the development of bitcoin and blockchain technology.[9] Blockstream provides funding for the development of Bitcoin Core, the predominant Bitcoin network client software.
+
+[Blockstream](https://blockstream.com/)
+
 ## 📅 2008
 ### OpenCog
 OpenCog was originally based on the release in 2008 of the source code of the proprietary "Novamente Cognition Engine" (NCE) of Novamente LLC.

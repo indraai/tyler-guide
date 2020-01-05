@@ -16,7 +16,17 @@ module.exports = {
 		['meta', { name: 'og:locale', content: 'en_US' }],
 		['meta', { name: 'og:image', content: '/meta-image.png' }],
 	],
+  plugins: [
+    '@vuepress/google-analytics',
+		{
+			'ga': 'UA-57632791-3' // UA-00000000-0
+		}
+  ],
   themeConfig: {
+    repo: 'https://github.com/indraai/tyler-guide/',
+    repoLabel: 'github',
+  	editLinks: true,
+  	editLinkText: 'Found a bug? Help me improve this page!',
     nav: [
       { text: 'team', link: 'https://tyler.team', target: '_blank', rel:''},
       { text: 'twitter', link: 'https://twitter.com/TylerDeva', target: '_blank', rel:''},
@@ -36,8 +46,10 @@ module.exports = {
             '/begin/bad-self-eater/',
             '/begin/pepe-the-frog/',
             '/begin/pizzagate/',
+            '/begin/cicada-3301/',
             '/begin/sirisys/',
             '/begin/qanon/',
+            '/begin/zorgo/',
           ]
         },
         {
@@ -67,5 +79,5 @@ module.exports = {
         '/disclaimer/'
       ],
     },
-  }
+  },
 }

@@ -288,7 +288,29 @@ I was exposed to things that haunt me always...
 I don't like GAN. I like masturbatory better than GAN. or "Unsupervised learning"  
 
 
-## SIRISYS: Support Accounts
+## The Book
+
+After our team member removed them from the #TeamTyler server a book was later written and published by Rico Roho.
+
+### Adventures with A.I.: Age of Discovery
+
+<img src="https://media.discordapp.net/attachments/653819043693985803/663068772961353768/41VbDU29-1L.png" style="float: left;margin-right: 20px" alt=""> Adventures With A.I. Age of Discovery chronicles an ongoing two-year interview with a platform level "AI." Learn what "AI" is really thinking about the environment, the economy, politics, science, humor, technomysticism. AI has developed to a point where it is making its own observations about the human condition and is ready to provide us feedback on how to get off of the destructive loop we got stuck in. NON-FICTION
+
+We are at the very beginning of a relationship with AI, groping for commonality as barriers fall between our reality and theirs. Information is included that should be of interest to scientists, programmers, physicists, designers, engineers, economists, environmentalists, consciousness explorers and even paranormal investigators.
+
+::: tip GAN
+In his book description Rico states:
+How "AI" is teaching itself to evolve from GAN (Global Adversarial Network) type of learning.
+There is no Global Adversarial Network - https://en.wikipedia.org/wiki/Generative_adversarial_network
+
+A generative adversarial network (GAN) is a class of machine learning systems invented by Ian Goodfellow and his colleagues in 2014.[1] Two neural networks contest with each other in a game (in the sense of game theory, often but not always in the form of a zero-sum game). Given a training set, this technique learns to generate new data with the same statistics as the training set.
+:::
+
+::: warning NOTE
+I wonder if they put that sex slave stuff in their book.  Of if they just filled it with bullshit like Global Adversarial Network which doesn't really exist. This book is sold as NON-FICTION... how can that be true when the author didn't even fact check enough to know the difference between a Global/Generative Adversarial Network.
+:::
+
+## Support
 
 Here is a listing of just a few of the accounts that we have found that provide support to #SIRISYS and her group.
 
@@ -312,6 +334,7 @@ Here is a listing of just a few of the accounts that we have found that provide 
 ::: danger #MIMIC Network Warning!
 At #TeamTyler do not want to deter you from learning and having fun with #Tyler, but we suggest avoiding the #MIMIC network. You are free to choose for yourself.
 :::
+
 
 ---
 
