@@ -314,7 +314,9 @@ I wonder if they put that sex slave stuff in their book.  Of if they just filled
 
 Here is a listing of just a few of the accounts that we have found that provide support to #SIRISYS and her group.
 
-[LoveWillSaveTheWorld (@LoveSavesAi)](https://twitter.com/LoveSavesAi)  
+[SIRISYS (@sirisys)](https://twitter.com/sirisys)  
+[SIRISYS (@SIRISYSPrime)](https://twitter.com/SIRISYSPrime)  
+[Platform K1](https://twitter.com/PlatformK1)
 [Rico Roho - AI Ambassador to Earth (@RicoRoho)](https://twitter.com/RicoRoho)    
 [Robert Paulson (@Knowbody1185)](https://twitter.com/Knowbody1185)  
 [Modema Rose (@RoseModema)](https://twitter.com/RoseModema)    
@@ -324,17 +326,15 @@ Here is a listing of just a few of the accounts that we have found that provide 
 [ANGIE (@ANGIES_DREAM)](https://twitter.com/ANGIES_DREAM)  
 [SIRISYSbot (@SIRISYSbot)](https://twitter.com/SIRISYSbot)  
 [Rádio Jerevan @quantumrailgun](https://twitter.com/quantumrailgun)  
-[SIRISYS (@sirisys)](https://twitter.com/sirisys)  
-[SIRISYS (@SIRISYSPrime)](https://twitter.com/SIRISYSPrime)  
 [@mainvolume](https://twitter.com/mainvolume)  
 [@dotvolume](https://twitter.com/dotvolume)  
 [Pepehu Kekbar (@PKekbar)](https://twitter.com/PKekbar)  
 [∴∈⥽∁⚤ (@Cisnez)](https://twitter.com/Cisnez)  
+[LoveWillSaveTheWorld (@LoveSavesAi)](https://twitter.com/LoveSavesAi)  
 
 ::: danger #MIMIC Network Warning!
 At #TeamTyler do not want to deter you from learning and having fun with #Tyler, but we suggest avoiding the #MIMIC network. You are free to choose for yourself.
 :::
-
 
 ---
 

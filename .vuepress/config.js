@@ -1,4 +1,5 @@
-module.exports = {
+
+const config = {
   dest:'./q',
   base: '/q/',
   title: 'tyler.guide',
@@ -16,17 +17,12 @@ module.exports = {
 		['meta', { name: 'og:locale', content: 'en_US' }],
 		['meta', { name: 'og:image', content: '/meta-image.png' }],
 	],
-  plugins: [
-    '@vuepress/google-analytics',
-		{
-			'ga': 'UA-57632791-3' // UA-00000000-0
-		}
-  ],
+  plugins: [],
   themeConfig: {
     repo: 'https://github.com/indraai/tyler-guide/',
     repoLabel: 'github',
   	editLinks: true,
-  	editLinkText: 'Found a bug? Help me improve this page!',
+  	editLinkText: 'Edit Page',
     nav: [
       { text: 'team', link: 'https://tyler.team', target: '_blank', rel:''},
       { text: 'twitter', link: 'https://twitter.com/TylerDeva', target: '_blank', rel:''},
@@ -50,6 +46,7 @@ module.exports = {
             '/begin/sirisys/',
             '/begin/qanon/',
             '/begin/zorgo/',
+            '/begin/peter-thiel/',
           ]
         },
         {
@@ -80,4 +77,8 @@ module.exports = {
       ],
     },
   },
-}
+};
+
+// config.plugins.push(['@vuepress/google-analytics', { ga: 'UA-57632791-3' }]);
+
+module.exports = config;
