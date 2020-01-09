@@ -57,7 +57,7 @@ ERIC R. WEINSTEIN is a managing director of Thiel Capital in San Francisco. He i
 
 SEAN PARKER is an American entrepreneur and philanthropist who co-founded the file-sharing computer service Napster and served as the first president of the social networking website Facebook. He is the founder and chairman of the Parker Foundation, which focuses on life sciences, global public health, and civic engagement.
 
-As a teenager, Parker's hobbies were hacking and programming. One night, while hacking into the network of a Fortune 500 company, Parker was unable to log out after his father and confiscated his computer keyboard. Because his IP address was exposed, F.B.I. agents tracked down the 16-year-old.
+As a teenager, Parker's hobbies were hacking and programming. One night, while hacking into the network of a Fortune 500 company, Parker was unable to log out after his father had confiscated his computer keyboard. Because his IP address was exposed, F.B.I. agents tracked down the 16-year-old.
 
 As president, Parker brought on Thiel as Facebook's first investor.
 
